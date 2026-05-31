@@ -9,9 +9,10 @@
  *   node scripts/cli.js build                     → Library 模式
  *   node scripts/cli.js build -- --bundled        → Bundled，默认 assets/questions.json
  *   node scripts/cli.js build -- --bundled path.json
+ *   node scripts/cli.js build --output index.html  → Pages 默认入口
  *   node scripts/cli.js preview                   → Library 模式
  *
- * vite.config.ts 通过 process.env.QUIZ_MODE / QUIZ_BUNDLED_PATH 读取。
+ * vite.config.ts 通过 process.env.QUIZ_MODE / QUIZ_BUNDLED_PATH / QUIZ_OUTPUT 读取。
  */
 import { spawn } from "node:child_process";
 import { resolve, dirname, isAbsolute } from "node:path";
@@ -34,6 +35,7 @@ const args = rest[0] === "--" ? rest.slice(1) : rest;
 
 const bundledIdx = args.indexOf("--bundled");
 const isBundled = bundledIdx !== -1;
+const outputIdx = args.indexOf("--output");
 
 let bundledPath = null;
 if (isBundled) {
@@ -63,6 +65,16 @@ if (isBundled) {
 } else {
   env.QUIZ_MODE = "library";
   delete env.QUIZ_BUNDLED_PATH;
+}
+if (outputIdx !== -1) {
+  const outputName = args[outputIdx + 1];
+  if (!outputName || outputName.startsWith("--")) {
+    console.error("[cli] --output 后必须跟输出文件名，例如 index.html");
+    process.exit(1);
+  }
+  env.QUIZ_OUTPUT = outputName;
+} else {
+  delete env.QUIZ_OUTPUT;
 }
 
 const viteArgs = subcommand === "dev" ? [] : [subcommand];

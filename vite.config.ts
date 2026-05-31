@@ -51,7 +51,8 @@ if (mode === "bundled" && !isTest) {
 }
 
 const outputName =
-  mode === "bundled" ? `bundled-${bundledHash}.html` : "shuatibao.html";
+  process.env.QUIZ_OUTPUT ??
+  (mode === "bundled" ? `bundled-${bundledHash}.html` : "shuatibao.html");
 
 // ─── 构建产物重命名 ──────────────────────────────────────────────────────────
 /**

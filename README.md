@@ -109,4 +109,17 @@ npm test
 
 ## 部署
 
-项目是静态网页，可以部署到 GitHub Pages、Cloudflare Pages、Vercel、Netlify 等静态托管平台。部署后用手机访问网址，再添加到主屏幕即可。
+项目已配置 GitHub Pages 自动部署。把代码推送到 GitHub 后：
+
+1. 打开仓库 `floyedgit/shuatibao`；
+2. 进入 `Settings` -> `Pages`；
+3. `Source` 选择 `GitHub Actions`；
+4. 回到 `Actions` 页面，等待 `Deploy to GitHub Pages` 运行完成；
+5. 部署地址通常是 `https://floyedgit.github.io/shuatibao/`。
+
+手机访问部署地址后：
+
+- iPhone：用 Safari 打开，分享 -> 添加到主屏幕；
+- 安卓：用 Chrome/Edge 打开，菜单 -> 添加到主屏幕或安装应用。
+
+也可以部署到 Cloudflare Pages、Vercel、Netlify 等静态托管平台。部署后用手机访问网址，再添加到主屏幕即可。

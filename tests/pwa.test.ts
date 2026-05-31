@@ -21,7 +21,7 @@ describe("PWA assets", () => {
     const html = readFileSync(resolve(root, "index.html"), "utf-8");
 
     expect(html).toContain('<title>刷题宝</title>');
-    expect(html).toContain('rel="manifest" href="/manifest.webmanifest"');
+    expect(html).toContain('rel="manifest" href="manifest.webmanifest"');
     expect(html).toContain('rel="apple-touch-icon"');
     expect(html).toContain('name="theme-color"');
   });
@@ -38,6 +38,6 @@ describe("PWA assets", () => {
     const main = readFileSync(resolve(root, "src", "main.ts"), "utf-8");
 
     expect(main).toContain("serviceWorker");
-    expect(main).toContain("register('/sw.js')");
+    expect(main).toContain("register('sw.js')");
   });
 });

@@ -1,9 +1,9 @@
 const CACHE_NAME = "shuatibao-shell-v1";
 const APP_SHELL = [
-  "/",
-  "/manifest.webmanifest",
-  "/icons/icon.svg",
-  "/icons/maskable-icon.svg",
+  "./",
+  "manifest.webmanifest",
+  "icons/icon.svg",
+  "icons/maskable-icon.svg",
 ];
 
 self.addEventListener("install", (event) => {
@@ -44,7 +44,7 @@ self.addEventListener("fetch", (event) => {
           caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
           return response;
         })
-        .catch(() => caches.match("/"));
+        .catch(() => caches.match("./"));
     }),
   );
 });

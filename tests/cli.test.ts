@@ -13,4 +13,14 @@ describe("scripts/cli.js", () => {
     expect(cli).toContain("vite.cmd");
     expect(cli).toContain("shell: process.platform === \"win32\"");
   });
+
+  it("支持 --output 指定构建产物名称", () => {
+    const cli = readFileSync(
+      resolve(__dirname, "..", "scripts", "cli.js"),
+      "utf-8",
+    );
+
+    expect(cli).toContain("--output");
+    expect(cli).toContain("env.QUIZ_OUTPUT");
+  });
 });
