@@ -173,6 +173,57 @@ describe("validateQuestions question 校验", () => {
   });
 });
 
+describe("validateQuestions 刷题宝扩展字段", () => {
+  it("允许 category 和 explanation 字符串字段并保留", () => {
+    const r = validateQuestions([
+      {
+        id: "safety_1",
+        type: "single",
+        category: "安全生产",
+        question: "现场作业前应先做什么？",
+        options: [{ text: "风险辨识" }, { text: "直接开工" }],
+        answer: [0],
+        explanation: "作业前应开展风险辨识并落实管控措施。",
+      },
+    ]);
+    expect(r.ok).toBe(true);
+    if (r.ok) {
+      expect(r.questions[0].category).toBe("安全生产");
+      expect(r.questions[0].explanation).toBe(
+        "作业前应开展风险辨识并落实管控措施。",
+      );
+    }
+  });
+
+  it("category 不是字符串时报错", () => {
+    const r = validateQuestions([
+      { id: "j1", type: "judgment", category: 123, question: "q", answer: true },
+    ]);
+    expect(r.ok).toBe(false);
+    if (!r.ok) {
+      expect(r.errors.some((e) => e.includes("category 不是字符串"))).toBe(true);
+    }
+  });
+
+  it("explanation 不是字符串时报错", () => {
+    const r = validateQuestions([
+      {
+        id: "j1",
+        type: "judgment",
+        question: "q",
+        answer: true,
+        explanation: ["bad"],
+      },
+    ]);
+    expect(r.ok).toBe(false);
+    if (!r.ok) {
+      expect(r.errors.some((e) => e.includes("explanation 不是字符串"))).toBe(
+        true,
+      );
+    }
+  });
+});
+
 describe("validateQuestions judgment 校验", () => {
   it("answer 不是 boolean", () => {
     const r = validateQuestions([

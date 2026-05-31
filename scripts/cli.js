@@ -66,7 +66,13 @@ if (isBundled) {
 }
 
 const viteArgs = subcommand === "dev" ? [] : [subcommand];
-const viteBin = resolve(projectRoot, "node_modules/.bin/vite");
+const viteCommand = process.platform === "win32" ? "vite.cmd" : "vite";
+const viteBin = resolve(projectRoot, "node_modules/.bin", viteCommand);
 
-const child = spawn(viteBin, viteArgs, { env, stdio: "inherit", cwd: projectRoot });
+const child = spawn(viteBin, viteArgs, {
+  env,
+  stdio: "inherit",
+  cwd: projectRoot,
+  shell: process.platform === "win32",
+});
 child.on("exit", (code) => process.exit(code ?? 0));

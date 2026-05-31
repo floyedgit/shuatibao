@@ -17,9 +17,11 @@ export type QuestionOrder = "random" | "sequential";
 export interface Question {
   id: string;
   type: QuestionType;
+  category?: string;
   question: string;
   options?: Option[];
   answer: boolean | number[] | string | string[];
+  explanation?: string;
 }
 
 /** 活动池中的题目 */

@@ -60,6 +60,9 @@ web_modules/
 # Optional npm cache directory
 .npm
 
+# Project-local portable tools
+.tools/
+
 # Optional eslint cache
 .eslintcache
 

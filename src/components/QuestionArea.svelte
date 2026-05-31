@@ -6,6 +6,10 @@
     import StreakIndicator from "./StreakIndicator.svelte";
     import { QUESTION_TYPES } from "../quiz/types/registry";
     import { getCorrectChoiceLetters } from "../features/quiz";
+    import {
+        getQuestionCategory,
+        getQuestionExplanation,
+    } from "../features/quiz/questionInfo";
     import { useQuizSession } from "../quiz/session/context";
 
     const session = useQuizSession();
@@ -17,6 +21,8 @@
 
 {#if session.currentQuestion && (session.currentPoolItem || session.showResult)}
     {@const TypeIcon = QUESTION_TYPES[session.currentQuestion.type].icon}
+    {@const category = getQuestionCategory(session.currentQuestion)}
+    {@const explanation = getQuestionExplanation(session.currentQuestion)}
     <div class="flex items-center gap-3">
         <TypeIcon
             size={16}
@@ -26,6 +32,13 @@
         <span class="text-muted-foreground text-xs font-mono">
             {session.currentQuestion.id}
         </span>
+        {#if category}
+            <span
+                class="bg-secondary text-secondary-foreground rounded-md px-2 py-0.5 text-xs font-medium"
+            >
+                {category}
+            </span>
+        {/if}
 
         {#if session.currentPoolItem}
             <div class="ml-auto">
@@ -67,11 +80,11 @@
         {/if}
     </div>
 
-    <div class="h-[76px]">
+    <div class="min-h-[76px]">
         {#if session.showResult}
             <div
                 class={cn(
-                    "flex h-full flex-col items-center justify-center gap-1 rounded-lg px-4 text-center",
+                    "flex h-full min-h-[76px] flex-col items-center justify-center gap-1 rounded-lg px-4 py-3 text-center",
                     session.isCorrect
                         ? "bg-success/10 text-success"
                         : "bg-destructive/10 text-destructive",
@@ -100,6 +113,11 @@
                             session.currentQuestion,
                             session.shuffledOptions,
                         )}
+                    </span>
+                {/if}
+                {#if explanation}
+                    <span class="text-foreground/80 mt-1 text-sm font-normal">
+                        解析：{explanation}
                     </span>
                 {/if}
             </div>

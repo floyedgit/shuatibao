@@ -62,6 +62,15 @@ export function validateQuestions(raw: unknown): ValidateResult {
     if (typeof item.question !== "string") {
       errors.push(`${label}（id=${id}）：question 不是字符串。`);
     }
+    if (item.category !== undefined && typeof item.category !== "string") {
+      errors.push(`${label}（id=${id}）：category 不是字符串。`);
+    }
+    if (
+      item.explanation !== undefined &&
+      typeof item.explanation !== "string"
+    ) {
+      errors.push(`${label}（id=${id}）：explanation 不是字符串。`);
+    }
 
     const typeErrors = QUESTION_TYPES_LOGIC[type as QuestionType].validate(
       item,

@@ -13,8 +13,6 @@
 
     // @ts-ignore
     import faviconRaw from "../icons/icon.svg?raw";
-    // @ts-ignore
-    import logoRaw from "../icons/logo.svg?raw";
     const faviconUrl = `data:image/svg+xml,${encodeURIComponent(faviconRaw)}`;
 
     const source = createSource();
@@ -31,18 +29,24 @@
 
 <svelte:head>
     <link rel="icon" type="image/svg+xml" href={faviconUrl} />
+    <title>刷题宝</title>
 </svelte:head>
 
 {#snippet contentBody()}
-    <header class="flex items-center gap-3 px-5 py-5 sm:px-8 sm:py-6">
+    <header class="flex items-center gap-3 px-5 py-4 sm:px-8 sm:py-5">
         {#if isLibrary}
             <HeaderSidebarTrigger />
         {/if}
         <div
-            class="text-muted-foreground mx-auto [&_svg]:h-4 [&_svg]:w-auto"
-            aria-label="Quiz! aPP."
+            class="mx-auto flex flex-col items-center leading-tight"
+            aria-label="刷题宝"
         >
-            {@html logoRaw}
+            <span class="text-foreground text-lg font-semibold tracking-normal"
+                >刷题宝</span
+            >
+            <span class="text-muted-foreground text-xs"
+                >手机本地题库练习</span
+            >
         </div>
         {#if isLibrary}
             <span class="size-8" aria-hidden="true"></span>
@@ -58,7 +62,7 @@
             <div class="flex max-w-md flex-col items-center gap-4 text-center">
                 <p class="text-foreground text-lg font-medium">还没有题库</p>
                 <p class="text-muted-foreground text-sm leading-relaxed">
-                    点击左侧栏「题库」分组右上角的导入按钮，从一个 JSON 文件开始。
+                    点击左上角菜单进入题库列表，导入 JSON 题库后即可开始练习。题库和进度只保存在当前手机浏览器。
                 </p>
             </div>
         </main>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="刷题宝">
+  <rect width="512" height="512" fill="#214f4b"/>
+  <rect x="116" y="84" width="280" height="344" rx="38" fill="#f7fbf9"/>
+  <path d="M172 170h168M172 244h168M172 318h112" stroke="#214f4b" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="346" cy="328" r="50" fill="#d7a449"/>
+  <path d="m321 329 18 19 36-44" fill="none" stroke="#214f4b" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

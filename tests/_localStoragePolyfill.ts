@@ -33,7 +33,6 @@ class InMemoryStorage implements Storage {
 }
 
 export function installLocalStoragePolyfill(): void {
-  if (typeof globalThis.localStorage !== "undefined") return;
   const instance = new InMemoryStorage();
   Object.defineProperty(globalThis, "localStorage", {
     configurable: true,

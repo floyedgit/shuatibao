@@ -51,11 +51,11 @@ if (mode === "bundled" && !isTest) {
 }
 
 const outputName =
-  mode === "bundled" ? `bundled-${bundledHash}.html` : "quiz-app.html";
+  mode === "bundled" ? `bundled-${bundledHash}.html` : "shuatibao.html";
 
 // ─── 构建产物重命名 ──────────────────────────────────────────────────────────
 /**
- * 把 dist/index.html 重命名为 bundled-<hash>.html / quiz-app.html。
+ * 把 dist/index.html 重命名为 bundled-<hash>.html / shuatibao.html。
  * preview 通过 preview.open 自动打开此文件。
  */
 function renameOutput(): Plugin {

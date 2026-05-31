@@ -1,0 +1,25 @@
+{
+  "name": "刷题宝",
+  "short_name": "刷题宝",
+  "description": "适合 iOS 和安卓手机使用的本地题库刷题工具",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7fbf9",
+  "theme_color": "#214f4b",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

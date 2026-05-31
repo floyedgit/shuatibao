@@ -181,10 +181,10 @@
                                 class="grid flex-1 text-left text-sm leading-tight"
                             >
                                 <span class="truncate font-semibold"
-                                    >Quiz! bANK.</span
+                                    >刷题宝</span
                                 >
                                 <span class="truncate text-xs opacity-70"
-                                    >题库</span
+                                    >本地题库</span
                                 >
                             </div>
                         </div>
