@@ -1,7 +1,7 @@
 {
-  "name": "刷题宝",
-  "short_name": "刷题宝",
-  "description": "适合 iOS 和安卓手机使用的本地题库刷题工具",
+  "name": "党务人才技能选拔赛模拟",
+  "short_name": "党务模拟",
+  "description": "党务人才技能选拔赛模拟题库练习工具",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -3,7 +3,7 @@ import { svelte } from "@sveltejs/vite-plugin-svelte";
 import { viteSingleFile } from "vite-plugin-singlefile";
 import tailwindcss from "@tailwindcss/vite";
 import { createHash } from "node:crypto";
-import { readFileSync, renameSync } from "node:fs";
+import { existsSync, readFileSync, renameSync } from "node:fs";
 import { resolve, isAbsolute } from "node:path";
 import { fileURLToPath } from "node:url";
 import { validateQuestions } from "./src/lib/validateQuestions";
@@ -66,6 +66,7 @@ function renameOutput(): Plugin {
     closeBundle() {
       const src = resolve(__dirname, "dist/index.html");
       const dst = resolve(__dirname, "dist", outputName);
+      if (existsSync(dst) && !existsSync(src)) return;
       renameSync(src, dst);
     },
   };

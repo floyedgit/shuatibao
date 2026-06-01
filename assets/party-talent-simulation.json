@@ -1,0 +1,8979 @@
+[
+  {
+    "id": "party_single_001",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "标志着红军长征胜利结束的事件是（ ）。",
+    "options": [
+      {
+        "text": "中央红军到达吴起镇"
+      },
+      {
+        "text": "红军三大主力会宁会师"
+      },
+      {
+        "text": "飞夺泸定桥"
+      },
+      {
+        "text": "翻越夹金山"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_002",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "九一八事变发生在（ ）。",
+    "options": [
+      {
+        "text": "1930年"
+      },
+      {
+        "text": "1931年"
+      },
+      {
+        "text": "1932年"
+      },
+      {
+        "text": "1935年"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_003",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "一二·九运动爆发的地点是（ ）。",
+    "options": [
+      {
+        "text": "北平"
+      },
+      {
+        "text": "上海"
+      },
+      {
+        "text": "南京"
+      },
+      {
+        "text": "广州"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_004",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "瓦窑堡会议的主要成果是确定了（ ）。",
+    "options": [
+      {
+        "text": "土地革命方针"
+      },
+      {
+        "text": "抗日民族统一战线方针"
+      },
+      {
+        "text": "武装斗争方针"
+      },
+      {
+        "text": "根据地建设方针"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_005",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "西安事变发生于（ ）。",
+    "options": [
+      {
+        "text": "1935年12月"
+      },
+      {
+        "text": "1936年12月"
+      },
+      {
+        "text": "1937年7月"
+      },
+      {
+        "text": "1937年12月"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_006",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全国性抗日战争开始的标志是（ ）。",
+    "options": [
+      {
+        "text": "九一八事变"
+      },
+      {
+        "text": "华北事变"
+      },
+      {
+        "text": "七七事变"
+      },
+      {
+        "text": "八一三事变"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_007",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "洛川会议制定的重要纲领是（ ）。",
+    "options": [
+      {
+        "text": "抗日救国十大纲领"
+      },
+      {
+        "text": "新民主主义论"
+      },
+      {
+        "text": "论联合政府"
+      },
+      {
+        "text": "和平建国纲领"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_008",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全民族抗战以来中国军队取得的第一次重大胜利是（ ）。",
+    "options": [
+      {
+        "text": "台儿庄战役"
+      },
+      {
+        "text": "平型关大捷"
+      },
+      {
+        "text": "百团大战"
+      },
+      {
+        "text": "淞沪会战"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_009",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "百团大战的主要指挥者是（ ）。",
+    "options": [
+      {
+        "text": "毛泽东"
+      },
+      {
+        "text": "朱德"
+      },
+      {
+        "text": "彭德怀"
+      },
+      {
+        "text": "林彪"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_010",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "延安整风运动最主要的任务是（ ）。",
+    "options": [
+      {
+        "text": "反对主观主义"
+      },
+      {
+        "text": "反对宗派主义"
+      },
+      {
+        "text": "反对党八股"
+      },
+      {
+        "text": "反对官僚主义"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_011",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "把毛泽东思想确立为党的指导思想的会议是（ ）。",
+    "options": [
+      {
+        "text": "遵义会议"
+      },
+      {
+        "text": "瓦窑堡会议"
+      },
+      {
+        "text": "中共七大"
+      },
+      {
+        "text": "中共七届二中全会"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_012",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "抗日战争胜利纪念日是（ ）。",
+    "options": [
+      {
+        "text": "8月15日"
+      },
+      {
+        "text": "9月2日"
+      },
+      {
+        "text": "9月3日"
+      },
+      {
+        "text": "10月1日"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_013",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "抗战胜利后，中共提出的三大口号是（ ）。",
+    "options": [
+      {
+        "text": "和平、民主、团结"
+      },
+      {
+        "text": "独立、自由、平等"
+      },
+      {
+        "text": "和平、独立、统一"
+      },
+      {
+        "text": "民主、科学、进步"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_014",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "重庆谈判国共双方签署的文件是（ ）。",
+    "options": [
+      {
+        "text": "《停战协定》"
+      },
+      {
+        "text": "《双十协定》"
+      },
+      {
+        "text": "《共同纲领》"
+      },
+      {
+        "text": "《政协决议》"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_015",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全面内战爆发的标志是国民党军队进攻（ ）。",
+    "options": [
+      {
+        "text": "山东解放区"
+      },
+      {
+        "text": "中原解放区"
+      },
+      {
+        "text": "陕北解放区"
+      },
+      {
+        "text": "东北解放区"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_016",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "揭开人民解放战争战略进攻序幕的是（ ）。",
+    "options": [
+      {
+        "text": "孟良崮战役"
+      },
+      {
+        "text": "刘邓大军挺进大别山"
+      },
+      {
+        "text": "辽沈战役"
+      },
+      {
+        "text": "淮海战役"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_017",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "三大战役中最先发动的是（ ）。",
+    "options": [
+      {
+        "text": "辽沈战役"
+      },
+      {
+        "text": "淮海战役"
+      },
+      {
+        "text": "平津战役"
+      },
+      {
+        "text": "渡江战役"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_018",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "北平和平解放发生在（ ）。",
+    "options": [
+      {
+        "text": "辽沈战役"
+      },
+      {
+        "text": "淮海战役"
+      },
+      {
+        "text": "平津战役"
+      },
+      {
+        "text": "渡江战役"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_019",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中共七届二中全会召开地点是（ ）。",
+    "options": [
+      {
+        "text": "延安"
+      },
+      {
+        "text": "西柏坡"
+      },
+      {
+        "text": "北平"
+      },
+      {
+        "text": "瑞金"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_020",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "七届二中全会提出党的工作重心（ ）。",
+    "options": [
+      {
+        "text": "由乡村转向城市"
+      },
+      {
+        "text": "由城市转向乡村"
+      },
+      {
+        "text": "由军事转向经济"
+      },
+      {
+        "text": "由革命转向建设"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_021",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "人民解放军占领南京的时间是（ ）。",
+    "options": [
+      {
+        "text": "1949年4月23日"
+      },
+      {
+        "text": "1949年5月23日"
+      },
+      {
+        "text": "1949年9月30日"
+      },
+      {
+        "text": "1949年10月1日"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_022",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中华人民共和国成立的时间是（ ）。",
+    "options": [
+      {
+        "text": "1948年10月1日"
+      },
+      {
+        "text": "1949年10月1日"
+      },
+      {
+        "text": "1950年10月1日"
+      },
+      {
+        "text": "1951年10月1日"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_023",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "新中国第一部社会主义类型宪法颁布于（ ）。",
+    "options": [
+      {
+        "text": "1949年"
+      },
+      {
+        "text": "1954年"
+      },
+      {
+        "text": "1956年"
+      },
+      {
+        "text": "1982年"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_024",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "我国社会主义制度基本建立的标志是（ ）。",
+    "options": [
+      {
+        "text": "新中国成立"
+      },
+      {
+        "text": "土地改革完成"
+      },
+      {
+        "text": "三大改造基本完成"
+      },
+      {
+        "text": "\"一五\"计划完成"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_025",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中共八大指出，国内主要矛盾是（ ）。",
+    "options": [
+      {
+        "text": "工人阶级与资产阶级的矛盾"
+      },
+      {
+        "text": "社会主义道路与资本主义道路的矛盾"
+      },
+      {
+        "text": "人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要的状况之间的矛盾"
+      },
+      {
+        "text": "敌我矛盾"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_026",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "抗美援朝战争的司令员是（ ）。",
+    "options": [
+      {
+        "text": "林彪"
+      },
+      {
+        "text": "彭德怀"
+      },
+      {
+        "text": "陈毅"
+      },
+      {
+        "text": "刘伯承"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_027",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "西藏和平解放于（ ）。",
+    "options": [
+      {
+        "text": "1949年"
+      },
+      {
+        "text": "1950年"
+      },
+      {
+        "text": "1951年"
+      },
+      {
+        "text": "1952年"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_028",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "新中国成立初期的土地改革完成于（ ）。",
+    "options": [
+      {
+        "text": "1949年"
+      },
+      {
+        "text": "1952年底"
+      },
+      {
+        "text": "1953年"
+      },
+      {
+        "text": "1956年"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_029",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "周恩来首次提出和平共处五项原则是在（ ）。",
+    "options": [
+      {
+        "text": "1953年"
+      },
+      {
+        "text": "1954年"
+      },
+      {
+        "text": "1955年"
+      },
+      {
+        "text": "1956年"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_030",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "万隆会议上，周恩来提出的重要方针是（ ）。",
+    "options": [
+      {
+        "text": "和平共处"
+      },
+      {
+        "text": "求同存异"
+      },
+      {
+        "text": "独立自主"
+      },
+      {
+        "text": "不结盟"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_031",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中国恢复在联合国的合法席位是在（ ）。",
+    "options": [
+      {
+        "text": "1970年"
+      },
+      {
+        "text": "1971年"
+      },
+      {
+        "text": "1972年"
+      },
+      {
+        "text": "1973年"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_032",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "美国总统尼克松访华实现中美关系正常化是在（ ）。",
+    "options": [
+      {
+        "text": "1971年"
+      },
+      {
+        "text": "1972年"
+      },
+      {
+        "text": "1978年"
+      },
+      {
+        "text": "1979年"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_033",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的十一届三中全会召开于（ ）。",
+    "options": [
+      {
+        "text": "1976年10月"
+      },
+      {
+        "text": "1978年12月"
+      },
+      {
+        "text": "1980年12月"
+      },
+      {
+        "text": "1982年12月"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_034",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "十一届三中全会作出的历史性决策是（ ）。",
+    "options": [
+      {
+        "text": "以阶级斗争为纲"
+      },
+      {
+        "text": "实行改革开放"
+      },
+      {
+        "text": "建立社会主义市场经济体制"
+      },
+      {
+        "text": "加入世界贸易组织"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_035",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "标志我国进入改革开放和社会主义现代化建设新时期的会议是（ ）。",
+    "options": [
+      {
+        "text": "中共八大"
+      },
+      {
+        "text": "中共十一届三中全会"
+      },
+      {
+        "text": "中共十二大"
+      },
+      {
+        "text": "中共十三大"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_036",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "明确提出建设有中国特色的社会主义的会议是（ ）。",
+    "options": [
+      {
+        "text": "中共十一届三中全会"
+      },
+      {
+        "text": "中共十二大"
+      },
+      {
+        "text": "中共十三大"
+      },
+      {
+        "text": "中共十四大"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_037",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "明确我国经济体制改革目标是建立社会主义市场经济体制的会议是（ ）。",
+    "options": [
+      {
+        "text": "中共十二大"
+      },
+      {
+        "text": "中共十三大"
+      },
+      {
+        "text": "中共十四大"
+      },
+      {
+        "text": "中共十五大"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_038",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "1964年我国取得的重大科技成就是（ ）。",
+    "options": [
+      {
+        "text": "第一颗原子弹爆炸成功"
+      },
+      {
+        "text": "第一颗氢弹爆炸成功"
+      },
+      {
+        "text": "第一颗人造卫星发射成功"
+      },
+      {
+        "text": "首次人工合成牛胰岛素"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_039",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "新中国外交史上，被称为“小球转动大球”的是（ ）。",
+    "options": [
+      {
+        "text": "中日建交"
+      },
+      {
+        "text": "中美乒乓外交"
+      },
+      {
+        "text": "重返联合国"
+      },
+      {
+        "text": "参加万隆会议"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_040",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "1978年关于真理标准问题大讨论的核心结论是（ ）。",
+    "options": [
+      {
+        "text": "阶级斗争为纲"
+      },
+      {
+        "text": "两个凡是"
+      },
+      {
+        "text": "实践是检验真理的唯一标准"
+      },
+      {
+        "text": "以经济建设为中心"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_041",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中国农村改革的突破口是（ ）。",
+    "options": [
+      {
+        "text": "发展乡镇企业"
+      },
+      {
+        "text": "实行家庭联产承包责任制"
+      },
+      {
+        "text": "取消农业税"
+      },
+      {
+        "text": "建设新农村"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_042",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "我国设立的第一个经济特区是（ ）。",
+    "options": [
+      {
+        "text": "珠海"
+      },
+      {
+        "text": "深圳"
+      },
+      {
+        "text": "厦门"
+      },
+      {
+        "text": "海南"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_043",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "明确概括“一个中心、两个基本点”基本路线的会议是（ ）。",
+    "options": [
+      {
+        "text": "中共十二大"
+      },
+      {
+        "text": "中共十三大"
+      },
+      {
+        "text": "中共十四大"
+      },
+      {
+        "text": "中共十五大"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_044",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "把邓小平理论确立为党的指导思想是在（ ）。",
+    "options": [
+      {
+        "text": "中共十三大"
+      },
+      {
+        "text": "中共十四大"
+      },
+      {
+        "text": "中共十五大"
+      },
+      {
+        "text": "中共十六大"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_045",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "2001年我国加入的重要国际经济组织是（ ）。",
+    "options": [
+      {
+        "text": "世界银行"
+      },
+      {
+        "text": "国际货币基金组织"
+      },
+      {
+        "text": "世界贸易组织（WTO）"
+      },
+      {
+        "text": "亚太经合组织"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_046",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "科学发展观的核心是（ ）。",
+    "options": [
+      {
+        "text": "发展"
+      },
+      {
+        "text": "以人为本"
+      },
+      {
+        "text": "全面协调可持续"
+      },
+      {
+        "text": "统筹兼顾"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_047",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中国特色社会主义进入新时代的重要标志是（ ）。",
+    "options": [
+      {
+        "text": "党的十八大召开"
+      },
+      {
+        "text": "党的十九大召开"
+      },
+      {
+        "text": "改革开放40周年"
+      },
+      {
+        "text": "新中国成立70周年"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_048",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "我国社会主要矛盾新表述是在（ ）。",
+    "options": [
+      {
+        "text": "党的十六大"
+      },
+      {
+        "text": "党的十七大"
+      },
+      {
+        "text": "党的十八大"
+      },
+      {
+        "text": "党的十九大"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_049",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "世界上第一个无产阶级专政的政权是（ ）。",
+    "options": [
+      {
+        "text": "第一国际"
+      },
+      {
+        "text": "巴黎公社"
+      },
+      {
+        "text": "苏维埃俄国"
+      },
+      {
+        "text": "中华苏维埃共和国"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_050",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "科学社会主义诞生的标志是（ ）。",
+    "options": [
+      {
+        "text": "《共产党宣言》发表"
+      },
+      {
+        "text": "十月革命胜利"
+      },
+      {
+        "text": "第一国际成立"
+      },
+      {
+        "text": "巴黎公社建立"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_051",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "开创人类历史新纪元，建立起世界上第一个社会主义国家的是（ ）。",
+    "options": [
+      {
+        "text": "法国大革命"
+      },
+      {
+        "text": "俄国十月革命"
+      },
+      {
+        "text": "中国新民主主义革命"
+      },
+      {
+        "text": "德国十一月革命"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_052",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中国特色社会主义最本质的特征是（ ）。",
+    "options": [
+      {
+        "text": "人民当家作主"
+      },
+      {
+        "text": "依法治国"
+      },
+      {
+        "text": "中国共产党领导"
+      },
+      {
+        "text": "共同富裕"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_053",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会强调，完善社会保障体系，健全覆盖全民、统筹城乡、公平统一、安全规范、可持续的（ ）体系。",
+    "options": [
+      {
+        "text": "社会保险"
+      },
+      {
+        "text": "社会保障"
+      },
+      {
+        "text": "社会救助"
+      },
+      {
+        "text": "社会福利"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_054",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会提出，要深化医药卫生体制改革，促进优质医疗资源（ ），推进健康中国建设。",
+    "options": [
+      {
+        "text": "集中布局"
+      },
+      {
+        "text": "均衡布局"
+      },
+      {
+        "text": "优先发展"
+      },
+      {
+        "text": "快速扩张"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_055",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会指出，要深化国有企业改革，加快国有经济布局优化和结构调整，推动国有资本和国有企业（ ）。",
+    "options": [
+      {
+        "text": "做大做强"
+      },
+      {
+        "text": "提质增效"
+      },
+      {
+        "text": "保值增值"
+      },
+      {
+        "text": "转型升级"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_056",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会强调，要毫不动摇巩固和发展公有制经济，毫不动摇（ ）非公有制经济发展。",
+    "options": [
+      {
+        "text": "支持、引导、规范"
+      },
+      {
+        "text": "鼓励、支持、引导"
+      },
+      {
+        "text": "引导、规范、发展"
+      },
+      {
+        "text": "鼓励、引导、保障"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_057",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会提出，要完善产权保护制度，依法保护各类产权，营造（ ）的营商环境。",
+    "options": [
+      {
+        "text": "市场化、法治化、国际化"
+      },
+      {
+        "text": "公平化、法治化、便利化"
+      },
+      {
+        "text": "市场化、规范化、国际化"
+      },
+      {
+        "text": "公平化、规范化、便利化"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_058",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会指出，要深化财税体制改革，完善中央与地方财政关系，健全（ ）的现代财政制度。",
+    "options": [
+      {
+        "text": "权责清晰、财力协调、区域均衡"
+      },
+      {
+        "text": "权责明确、收支平衡、统筹兼顾"
+      },
+      {
+        "text": "统筹协调、精准高效、保障有力"
+      },
+      {
+        "text": "规范透明、公平公正、高效便捷"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_059",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会强调，要深化金融体制改革，健全金融监管体系，防范化解（ ）风险。",
+    "options": [
+      {
+        "text": "金融市场"
+      },
+      {
+        "text": "系统性金融"
+      },
+      {
+        "text": "金融机构"
+      },
+      {
+        "text": "金融信贷"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_060",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会提出，要推进以人为核心的新型城镇化，健全城乡融合发展体制机制，促进（ ）双向流动。",
+    "options": [
+      {
+        "text": "城乡要素"
+      },
+      {
+        "text": "城乡人口"
+      },
+      {
+        "text": "城乡资源"
+      },
+      {
+        "text": "城乡产业"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_061",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会指出，要深化生态文明体制改革，健全生态环境保护长效机制，推动（ ）建设。",
+    "options": [
+      {
+        "text": "美丽中国"
+      },
+      {
+        "text": "生态中国"
+      },
+      {
+        "text": "绿色中国"
+      },
+      {
+        "text": "低碳中国"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_062",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会强调，要坚持和完善社会主义基本经济制度，推动经济发展（ ）。",
+    "options": [
+      {
+        "text": "速度与质量并重"
+      },
+      {
+        "text": "质量变革、效率变革、动力变革"
+      },
+      {
+        "text": "规模与效益同步"
+      },
+      {
+        "text": "创新与协调共进"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_063",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会提出，要加强社会主义民主政治建设，健全人民当家作主制度体系，发展（ ）人民民主。",
+    "options": [
+      {
+        "text": "全过程"
+      },
+      {
+        "text": "全方位"
+      },
+      {
+        "text": "全领域"
+      },
+      {
+        "text": "全覆盖"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_064",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会指出，要深化司法体制综合配套改革，推进（ ），维护社会公平正义。",
+    "options": [
+      {
+        "text": "司法公正"
+      },
+      {
+        "text": "司法公开"
+      },
+      {
+        "text": "司法为民"
+      },
+      {
+        "text": "公正司法、司法为民"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_065",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会强调，要加强思想文化建设，牢牢掌握意识形态工作领导权，培育和践行（ ）。",
+    "options": [
+      {
+        "text": "社会主义核心价值观"
+      },
+      {
+        "text": "社会主义先进文化"
+      },
+      {
+        "text": "中华优秀传统文化"
+      },
+      {
+        "text": "革命文化"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_066",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会提出，要完善基层治理体系，健全基层党组织领导的基层群众自治机制，提升（ ）治理效能。",
+    "options": [
+      {
+        "text": "基层"
+      },
+      {
+        "text": "社区"
+      },
+      {
+        "text": "乡村"
+      },
+      {
+        "text": "城乡"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_067",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会指出，要深化国防和军队改革，加强国防和军队现代化建设，全面提高（ ）能力。",
+    "options": [
+      {
+        "text": "备战打仗"
+      },
+      {
+        "text": "国防建设"
+      },
+      {
+        "text": "军队建设"
+      },
+      {
+        "text": "应急处置"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_068",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会强调，要坚持独立自主的和平外交政策，推动构建（ ）。",
+    "options": [
+      {
+        "text": "人类命运共同体"
+      },
+      {
+        "text": "新型国际关系"
+      },
+      {
+        "text": "全球发展共同体"
+      },
+      {
+        "text": "全球安全共同体"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_069",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会提出，要加强党的建设，健全全面从严治党体系，深入推进（ ），永葆党的先进性和纯洁性。",
+    "options": [
+      {
+        "text": "党风廉政建设"
+      },
+      {
+        "text": "反腐败斗争"
+      },
+      {
+        "text": "党风廉政建设和反腐败斗争"
+      },
+      {
+        "text": "作风建设"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_070",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会指出，要健全激励机制和容错纠错机制，充分调动广大党员干部（ ）的积极性、主动性、创造性。",
+    "options": [
+      {
+        "text": "干事创业"
+      },
+      {
+        "text": "改革创新"
+      },
+      {
+        "text": "担当作为"
+      },
+      {
+        "text": "履职尽责"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_071",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会强调，要推进改革落地见效，建立健全改革（ ）机制，确保各项改革任务落到实处。",
+    "options": [
+      {
+        "text": "推进、落实、评估"
+      },
+      {
+        "text": "决策、执行、监督"
+      },
+      {
+        "text": "部署、实施、反馈"
+      },
+      {
+        "text": "督查、考核、问责"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_072",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会提出，要聚焦（ ）重点领域和关键环节，推出一批具有标志性、引领性的改革举措。",
+    "options": [
+      {
+        "text": "高质量发展"
+      },
+      {
+        "text": "中国式现代化"
+      },
+      {
+        "text": "全面深化改革"
+      },
+      {
+        "text": "人民群众急难愁盼"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_073",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "二十届三中全会指出，要加强改革系统集成，注重改革（ ），推动各项改革相互配合、相互促进、相得益彰。",
+    "options": [
+      {
+        "text": "整体性、协同性"
+      },
+      {
+        "text": "系统性、整体性"
+      },
+      {
+        "text": "系统性、协同性"
+      },
+      {
+        "text": "整体性、协同性、实效性"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_074",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党的二十届三中全会强调，进一步全面深化改革，必须牢牢把握（ ）这个最大的国情，坚持一切从实际出发。",
+    "options": [
+      {
+        "text": "中国特色社会主义进入新时代"
+      },
+      {
+        "text": "我国仍处于并将长期处于社会主义初级阶段"
+      },
+      {
+        "text": "中国式现代化"
+      },
+      {
+        "text": "高质量发展"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_075",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，加快农业农村现代化的总抓手是？",
+    "options": [
+      {
+        "text": "城市化"
+      },
+      {
+        "text": "工业化"
+      },
+      {
+        "text": "乡村全面振兴"
+      },
+      {
+        "text": "人口外流"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_076",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，优化区域经济布局，促进区域协调发展的战略不包括？",
+    "options": [
+      {
+        "text": "区域协调发展战略"
+      },
+      {
+        "text": "区域重大战略"
+      },
+      {
+        "text": "主体功能区战略"
+      },
+      {
+        "text": "优先发展东部战略"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_077",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，激发全民族文化创新创造活力，是为了扎实推进？",
+    "options": [
+      {
+        "text": "经济强国建设"
+      },
+      {
+        "text": "军事强国建设"
+      },
+      {
+        "text": "文化强国建设"
+      },
+      {
+        "text": "科技强国建设"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_078",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，加大保障和改善民生力度，其最终目标是？",
+    "options": [
+      {
+        "text": "提高GDP总量"
+      },
+      {
+        "text": "扎实推进全体人民共同富裕"
+      },
+      {
+        "text": "增加政府财政收入"
+      },
+      {
+        "text": "扩大贫富差距"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_079",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，加快经济社会发展全面绿色转型，必须牢固树立和践行的理念是？",
+    "options": [
+      {
+        "text": "先污染后治理"
+      },
+      {
+        "text": "绿水青山就是金山银山"
+      },
+      {
+        "text": "资源无限论"
+      },
+      {
+        "text": "发展优先于环保"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_080",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会指出，如期实现建军一百年奋斗目标，必须贯彻？",
+    "options": [
+      {
+        "text": "传统军事思想"
+      },
+      {
+        "text": "习近平强军思想"
+      },
+      {
+        "text": "扩张主义思想"
+      },
+      {
+        "text": "保守防御思想"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_081",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，推进国家安全体系和能力现代化，是为了建设？",
+    "options": [
+      {
+        "text": "更高水平平安中国"
+      },
+      {
+        "text": "军事强国"
+      },
+      {
+        "text": "经济霸权国家"
+      },
+      {
+        "text": "封闭型国家"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_082",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，“十五五”时期经济社会发展的重要保障是？",
+    "options": [
+      {
+        "text": "扩大对外开放"
+      },
+      {
+        "text": "全面从严治党"
+      },
+      {
+        "text": "增加人口数量"
+      },
+      {
+        "text": "依赖外部援助"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_083",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，当前全党全国的重大政治任务是？",
+    "options": [
+      {
+        "text": "学习好贯彻好全会精神"
+      },
+      {
+        "text": "立即实现GDP翻番"
+      },
+      {
+        "text": "全面转向计划经济"
+      },
+      {
+        "text": "停止一切改革"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_084",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会指出，实现社会主义现代化是一个怎样的历史过程？",
+    "options": [
+      {
+        "text": "一蹴而就"
+      },
+      {
+        "text": "阶梯式递进、不断发展进步"
+      },
+      {
+        "text": "直线式上升"
+      },
+      {
+        "text": "循环往复"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_085",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，我国经济长期向好的支撑条件和基本趋势？",
+    "options": [
+      {
+        "text": "已经改变"
+      },
+      {
+        "text": "没有变"
+      },
+      {
+        "text": "完全消失"
+      },
+      {
+        "text": "不确定"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_086",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，建设强大国内市场，要坚持什么和促消费紧密结合？",
+    "options": [
+      {
+        "text": "惠民生"
+      },
+      {
+        "text": "增税收"
+      },
+      {
+        "text": "加杠杆"
+      },
+      {
+        "text": "压投资"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_087",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，扩大高水平对外开放，要稳步扩大？",
+    "options": [
+      {
+        "text": "出口补贴"
+      },
+      {
+        "text": "关税壁垒"
+      },
+      {
+        "text": "制度型开放"
+      },
+      {
+        "text": "外汇管制"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_088",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会指出，优化区域经济布局，要发挥哪一战略的叠加效应？",
+    "options": [
+      {
+        "text": "单一城市发展战略"
+      },
+      {
+        "text": "新型城镇化战略"
+      },
+      {
+        "text": "农村包围城市战略"
+      },
+      {
+        "text": "沿海优先战略"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_089",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，加大保障和改善民生力度，要坚持什么原则？",
+    "options": [
+      {
+        "text": "尽力而为、量力而行"
+      },
+      {
+        "text": "全面兜底、不计成本"
+      },
+      {
+        "text": "先发展后民生"
+      },
+      {
+        "text": "市场主导、政府退出"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_090",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，加快经济社会发展全面绿色转型，要以什么为牵引？",
+    "options": [
+      {
+        "text": "工业扩张"
+      },
+      {
+        "text": "碳达峰碳中和"
+      },
+      {
+        "text": "增加化石能源使用"
+      },
+      {
+        "text": "减少绿化面积"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_091",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，推进国家安全体系和能力现代化，要走什么道路？",
+    "options": [
+      {
+        "text": "西方治理道路"
+      },
+      {
+        "text": "中国特色社会主义社会治理之路"
+      },
+      {
+        "text": "人治之路"
+      },
+      {
+        "text": "军国主义道路"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_092",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会指出，如期实现建军一百年奋斗目标，要提高捍卫国家主权、安全、发展利益的？",
+    "options": [
+      {
+        "text": "经济能力"
+      },
+      {
+        "text": "文化能力"
+      },
+      {
+        "text": "战略能力"
+      },
+      {
+        "text": "外交能力"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_093",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，全党必须深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，其中“两个确立”不包括？",
+    "options": [
+      {
+        "text": "确立习近平同志党中央的核心、全党的核心地位"
+      },
+      {
+        "text": "确立习近平新时代中国特色社会主义思想的指导地位"
+      },
+      {
+        "text": "确立经济建设的中心地位"
+      },
+      {
+        "text": "确立党的全面领导地位"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_094",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，“十五五”时期经济社会发展必须坚持的根本动力是？",
+    "options": [
+      {
+        "text": "等待外部援助"
+      },
+      {
+        "text": "改革创新"
+      },
+      {
+        "text": "增加人口"
+      },
+      {
+        "text": "扩大债务"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_095",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，建设现代化产业体系，要构建以什么为骨干的现代化产业体系？",
+    "options": [
+      {
+        "text": "房地产业"
+      },
+      {
+        "text": "金融业"
+      },
+      {
+        "text": "先进制造业"
+      },
+      {
+        "text": "农业"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_096",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会指出，加快高水平科技自立自强，要抢占什么制高点？",
+    "options": [
+      {
+        "text": "资源"
+      },
+      {
+        "text": "劳动力"
+      },
+      {
+        "text": "科技发展"
+      },
+      {
+        "text": "市场"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_097",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，构建新发展格局，要增强国内大循环的？",
+    "options": [
+      {
+        "text": "对外依赖性"
+      },
+      {
+        "text": "内生动力和可靠性"
+      },
+      {
+        "text": "脆弱性"
+      },
+      {
+        "text": "封闭性"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_098",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，加快构建高水平社会主义市场经济体制，要更好发挥什么改革的牵引作用？",
+    "options": [
+      {
+        "text": "政治体制"
+      },
+      {
+        "text": "文化体制"
+      },
+      {
+        "text": "经济体制"
+      },
+      {
+        "text": "社会体制"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_099",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，扩大高水平对外开放，要高质量共建？",
+    "options": [
+      {
+        "text": "世界贸易组织"
+      },
+      {
+        "text": "“一带一路”"
+      },
+      {
+        "text": "军事同盟"
+      },
+      {
+        "text": "封闭市场"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_100",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会指出，加快农业农村现代化，要坚持把解决好什么问题作为全党工作重中之重？",
+    "options": [
+      {
+        "text": "工业发展问题"
+      },
+      {
+        "text": "城市扩张问题"
+      },
+      {
+        "text": "“三农”问题"
+      },
+      {
+        "text": "金融风险问题"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_101",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，优化区域经济布局，要构建什么样的区域经济布局和国土空间体系？",
+    "options": [
+      {
+        "text": "各自为政"
+      },
+      {
+        "text": "优势互补、高质量发展"
+      },
+      {
+        "text": "重复建设"
+      },
+      {
+        "text": "恶性竞争"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_102",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，激发全民族文化创新创造活力，要坚持什么在意识形态领域的指导地位？",
+    "options": [
+      {
+        "text": "西方文化"
+      },
+      {
+        "text": "马克思主义"
+      },
+      {
+        "text": "封建文化"
+      },
+      {
+        "text": "宗教思想"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_103",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，加大保障和改善民生力度，要加强什么性、基础性、兜底性民生建设？",
+    "options": [
+      {
+        "text": "普惠性"
+      },
+      {
+        "text": "特殊性"
+      },
+      {
+        "text": "精英性"
+      },
+      {
+        "text": "市场性"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_104",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会指出，加快经济社会发展全面绿色转型，要协同推进降碳、减污、扩绿和？",
+    "options": [
+      {
+        "text": "增排"
+      },
+      {
+        "text": "增长"
+      },
+      {
+        "text": "污染"
+      },
+      {
+        "text": "破坏"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_105",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，推进国家安全体系和能力现代化，要健全什么体系？",
+    "options": [
+      {
+        "text": "经济体系"
+      },
+      {
+        "text": "文化体系"
+      },
+      {
+        "text": "国家安全体系"
+      },
+      {
+        "text": "教育体系"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_106",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会提出，如期实现建军一百年奋斗目标，要加快什么化信息化智能化融合发展？",
+    "options": [
+      {
+        "text": "农业"
+      },
+      {
+        "text": "工业"
+      },
+      {
+        "text": "服务业"
+      },
+      {
+        "text": "机械化"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_107",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会强调，实现“十五五”时期经济社会发展目标，必须坚持和加强什么？",
+    "options": [
+      {
+        "text": "地方保护主义"
+      },
+      {
+        "text": "党中央集中统一领导"
+      },
+      {
+        "text": "市场自由放任"
+      },
+      {
+        "text": "企业自主决策"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_108",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会指出，学习好贯彻好全会精神，要切实抓好什么？",
+    "options": [
+      {
+        "text": "形式主义"
+      },
+      {
+        "text": "官僚主义"
+      },
+      {
+        "text": "全会精神的贯彻落实"
+      },
+      {
+        "text": "文山会海"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_109",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全会号召，全党全军全国各族人民要不断开创以什么全面推进强国建设、民族复兴伟业新局面？",
+    "options": [
+      {
+        "text": "西方模式"
+      },
+      {
+        "text": "中国式现代化"
+      },
+      {
+        "text": "传统农业社会"
+      },
+      {
+        "text": "殖民扩张"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_110",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "领导干部创造业绩的根本目的是？",
+    "options": [
+      {
+        "text": "个人升迁"
+      },
+      {
+        "text": "为党分忧、为民造福"
+      },
+      {
+        "text": "获得荣誉"
+      },
+      {
+        "text": "积累人脉"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_111",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "下列哪项属于“潜绩”？",
+    "options": [
+      {
+        "text": "修建地标性建筑"
+      },
+      {
+        "text": "搞大型节庆活动"
+      },
+      {
+        "text": "改善营商环境"
+      },
+      {
+        "text": "突击刷墙美化"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_112",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "政绩观的核心问题是？",
+    "options": [
+      {
+        "text": "为谁创造业绩"
+      },
+      {
+        "text": "创造什么业绩"
+      },
+      {
+        "text": "怎样创造业绩"
+      },
+      {
+        "text": "以上都是"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_113",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "纠正政绩观偏差，必须坚决反对什么？",
+    "options": [
+      {
+        "text": "真抓实干"
+      },
+      {
+        "text": "劳民伤财的形象工程"
+      },
+      {
+        "text": "调查研究"
+      },
+      {
+        "text": "按规律办事"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_114",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "树立正确政绩观，要坚持以什么为中心的发展思想？",
+    "options": [
+      {
+        "text": "经济"
+      },
+      {
+        "text": "项目"
+      },
+      {
+        "text": "人民"
+      },
+      {
+        "text": "速度"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_115",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "“金杯银杯不如群众口碑”体现了政绩评判的什么标准？",
+    "options": [
+      {
+        "text": "上级认可"
+      },
+      {
+        "text": "群众认可"
+      },
+      {
+        "text": "数据漂亮"
+      },
+      {
+        "text": "形式新颖"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_116",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "完整、准确、全面贯彻什么理念是树立正确政绩观的关键？",
+    "options": [
+      {
+        "text": "传统发展理念"
+      },
+      {
+        "text": "新发展理念"
+      },
+      {
+        "text": "经验主义"
+      },
+      {
+        "text": "本本主义"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_117",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "领导干部谋划推进工作，必须坚持的根本宗旨是？",
+    "options": [
+      {
+        "text": "全心全意为人民服务"
+      },
+      {
+        "text": "追求经济效益最大化"
+      },
+      {
+        "text": "完成考核指标"
+      },
+      {
+        "text": "打造亮点工程"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_118",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "树立正确政绩观，必须强化什么精神？",
+    "options": [
+      {
+        "text": "形式主义"
+      },
+      {
+        "text": "官僚主义"
+      },
+      {
+        "text": "真抓实干"
+      },
+      {
+        "text": "投机取巧"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_119",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "政绩观出现偏差的根源往往在于？",
+    "options": [
+      {
+        "text": "私心杂念"
+      },
+      {
+        "text": "能力不足"
+      },
+      {
+        "text": "资源有限"
+      },
+      {
+        "text": "环境复杂"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_120",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "下列哪项是正确政绩观倡导的行为？",
+    "options": [
+      {
+        "text": "新官不理旧账"
+      },
+      {
+        "text": "盲目举债搞建设"
+      },
+      {
+        "text": "一张蓝图绘到底"
+      },
+      {
+        "text": "数据造假"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_121",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "树立正确政绩观，要求领导干部必须增强什么意识？",
+    "options": [
+      {
+        "text": "风险意识"
+      },
+      {
+        "text": "侥幸心理"
+      },
+      {
+        "text": "短期效应"
+      },
+      {
+        "text": "个人主义"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_122",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "政绩观教育应纳入什么培训的必修课程？",
+    "options": [
+      {
+        "text": "企业培训"
+      },
+      {
+        "text": "社会培训"
+      },
+      {
+        "text": "干部教育培训"
+      },
+      {
+        "text": "技能培训"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_123",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "推动高质量发展，要求领导干部必须？",
+    "options": [
+      {
+        "text": "追求高速增长"
+      },
+      {
+        "text": "追求实实在在、没有水分的增长"
+      },
+      {
+        "text": "忽视环保"
+      },
+      {
+        "text": "忽视民生"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_124",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "树立正确政绩观，必须处理好哪组关系？",
+    "options": [
+      {
+        "text": "稳和进"
+      },
+      {
+        "text": "立和破"
+      },
+      {
+        "text": "虚和实"
+      },
+      {
+        "text": "以上都是"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_125",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "领导干部要坚决防止什么心态？",
+    "options": [
+      {
+        "text": "求真务实"
+      },
+      {
+        "text": "急功近利、急于出成绩"
+      },
+      {
+        "text": "久久为功"
+      },
+      {
+        "text": "担当作为"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_126",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "政绩观问题本质上是如何对待什么的问题？",
+    "options": [
+      {
+        "text": "权力"
+      },
+      {
+        "text": "名利"
+      },
+      {
+        "text": "事业"
+      },
+      {
+        "text": "以上都是"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_127",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "树立正确政绩观，必须坚持什么原则？",
+    "options": [
+      {
+        "text": "尽力而为、量力而行"
+      },
+      {
+        "text": "不计成本、大干快上"
+      },
+      {
+        "text": "先污染后治理"
+      },
+      {
+        "text": "重显绩轻潜绩"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_128",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "领导干部要自觉用党的创新理论改造什么世界？",
+    "options": [
+      {
+        "text": "客观世界"
+      },
+      {
+        "text": "主观世界"
+      },
+      {
+        "text": "自然世界"
+      },
+      {
+        "text": "国际世界"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_129",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "树立正确政绩观，必须坚持什么思维？",
+    "options": [
+      {
+        "text": "系统思维"
+      },
+      {
+        "text": "碎片化思维"
+      },
+      {
+        "text": "本位主义"
+      },
+      {
+        "text": "经验主义"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_130",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "领导干部要力戒什么主义？",
+    "options": [
+      {
+        "text": "形式主义、官僚主义"
+      },
+      {
+        "text": "实干主义"
+      },
+      {
+        "text": "担当精神"
+      },
+      {
+        "text": "斗争精神"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_131",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "树立正确政绩观，最终要落实到什么上？",
+    "options": [
+      {
+        "text": "口号"
+      },
+      {
+        "text": "文件"
+      },
+      {
+        "text": "行动"
+      },
+      {
+        "text": "会议"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_132",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中央八项规定对领导干部发表文稿的要求是？",
+    "options": [
+      {
+        "text": "鼓励多出著作、多题词"
+      },
+      {
+        "text": "除中央统一安排外，个人不公开出版著作、不题词"
+      },
+      {
+        "text": "可随意发表未经审核的讲话"
+      },
+      {
+        "text": "应多发贺信、贺电"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_133",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中央八项规定在厉行勤俭节约方面，重点要求？",
+    "options": [
+      {
+        "text": "严格执行住房、车辆配备等生活待遇规定"
+      },
+      {
+        "text": "可适当提高公务接待标准"
+      },
+      {
+        "text": "办公用房可略超标准以示威严"
+      },
+      {
+        "text": "公务用车优先配备高档进口车"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_134",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "习近平总书记将制定实施中央八项规定称为新时代的什么之举？",
+    "options": [
+      {
+        "text": "权宜之计"
+      },
+      {
+        "text": "徙木立信"
+      },
+      {
+        "text": "临时措施"
+      },
+      {
+        "text": "探索尝试"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_135",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "深入贯彻中央八项规定精神学习教育于何时在全党开展？",
+    "options": [
+      {
+        "text": "2023年"
+      },
+      {
+        "text": "2024年"
+      },
+      {
+        "text": "2025年全国两会后至7月"
+      },
+      {
+        "text": "2026年"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_136",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "违反中央八项规定精神问题主要集中表现为哪类问题？",
+    "options": [
+      {
+        "text": "业务能力不足"
+      },
+      {
+        "text": "“四风”问题（形式主义、官僚主义、享乐主义、奢靡之风）"
+      },
+      {
+        "text": "理论学习不深入"
+      },
+      {
+        "text": "工作方法陈旧"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_137",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "下列哪项属于形式主义、官僚主义的典型表现？",
+    "options": [
+      {
+        "text": "违规收受礼品礼金"
+      },
+      {
+        "text": "文山会海、督查检查考核过多过频"
+      },
+      {
+        "text": "公款旅游"
+      },
+      {
+        "text": "超标准配备公车"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_138",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "下列哪项属于享乐主义、奢靡之风的违纪行为？",
+    "options": [
+      {
+        "text": "调研不深入"
+      },
+      {
+        "text": "文件简报过多"
+      },
+      {
+        "text": "违规公款吃喝、违规接受宴请"
+      },
+      {
+        "text": "会议时间过长"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_139",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "关于落实中央八项规定精神，以下说法正确的是？",
+    "options": [
+      {
+        "text": "只是一阵风，抓完就结束了"
+      },
+      {
+        "text": "是长期有效的铁规矩、硬杠杠"
+      },
+      {
+        "text": "只对高级干部有约束力"
+      },
+      {
+        "text": "可以搞“特殊论”“例外论”"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_140",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "改进调查研究，关键在于？",
+    "options": [
+      {
+        "text": "看材料、听汇报"
+      },
+      {
+        "text": "看“门面”和“窗口”"
+      },
+      {
+        "text": "了解真实情况、解决实际问题"
+      },
+      {
+        "text": "增加调研人数和天数"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_141",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "精简会议活动的主要目的是？",
+    "options": [
+      {
+        "text": "减少领导工作量"
+      },
+      {
+        "text": "提高会议实效，把干部从会议中解放出来"
+      },
+      {
+        "text": "取消所有会议"
+      },
+      {
+        "text": "只开电视电话会议"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_142",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "规范出访活动要求合理安排出访，主要依据是？",
+    "options": [
+      {
+        "text": "个人兴趣"
+      },
+      {
+        "text": "外交工作大局需要"
+      },
+      {
+        "text": "地方邀请数量"
+      },
+      {
+        "text": "随行人员建议"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_143",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "改进新闻报道要求压缩报道的数量、字数、时长，体现了什么导向？",
+    "options": [
+      {
+        "text": "不报道领导活动"
+      },
+      {
+        "text": "工作导向、群众导向"
+      },
+      {
+        "text": "减少媒体工作量"
+      },
+      {
+        "text": "只报道负面新闻"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_144",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "严格执行住房、车辆配备等规定，体现了哪一原则？",
+    "options": [
+      {
+        "text": "厉行勤俭节约、反对特权思想"
+      },
+      {
+        "text": "提高干部待遇"
+      },
+      {
+        "text": "方便工作即可"
+      },
+      {
+        "text": "只要不超标就行"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_145",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "深入贯彻中央八项规定精神，必须坚持的工作方法是？",
+    "options": [
+      {
+        "text": "抓大放小"
+      },
+      {
+        "text": "抓常抓细抓长"
+      },
+      {
+        "text": "突击检查"
+      },
+      {
+        "text": "只抓典型"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_146",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "下列哪项行为违反了厉行勤俭节约的要求？",
+    "options": [
+      {
+        "text": "按标准安排公务接待"
+      },
+      {
+        "text": "使用旧车继续办公"
+      },
+      {
+        "text": "借培训之名组织高消费娱乐健身活动"
+      },
+      {
+        "text": "合并召开会议"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_147",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "中央八项规定精神学习教育的主要目标是？",
+    "options": [
+      {
+        "text": "单纯学习文件"
+      },
+      {
+        "text": "推动党的作风持续向好"
+      },
+      {
+        "text": "提高写作能力"
+      },
+      {
+        "text": "增加会议记录"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_148",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "关于“四风”问题，以下说法错误的是？",
+    "options": [
+      {
+        "text": "形式主义主要表现为知行不一、不求实效"
+      },
+      {
+        "text": "官僚主义主要表现为脱离群众、脱离实际"
+      },
+      {
+        "text": "享乐主义主要表现为贪图安逸、追求享受"
+      },
+      {
+        "text": "理论学习不深入是“四风”的主要表现"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_149",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "落实中央八项规定精神，必须坚持的领导方式是？",
+    "options": [
+      {
+        "text": "党委负主体责任，纪委负监督责任"
+      },
+      {
+        "text": "纪委负全责"
+      },
+      {
+        "text": "党委书记一人负责"
+      },
+      {
+        "text": "部门各自为政"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_150",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "下列哪项是落实中央八项规定精神的具体措施？",
+    "options": [
+      {
+        "text": "增加督查检查次数"
+      },
+      {
+        "text": "制定实施细则，明确接待标准"
+      },
+      {
+        "text": "要求基层多报材料"
+      },
+      {
+        "text": "增加文件印发数量"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_151",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "违反中央八项规定精神受到党纪处分的，一般会？",
+    "options": [
+      {
+        "text": "内部批评教育为主"
+      },
+      {
+        "text": "公开通报曝光"
+      },
+      {
+        "text": "只记录不公开"
+      },
+      {
+        "text": "仅限内部传达"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_152",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "下列哪项行为符合改进工作作风的要求？",
+    "options": [
+      {
+        "text": "调研时要求群众列队欢迎"
+      },
+      {
+        "text": "会议安排豪华宴请"
+      },
+      {
+        "text": "轻车简从，不安排迎送"
+      },
+      {
+        "text": "出访时要求高规格接待"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_153",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "深入贯彻中央八项规定精神，最终要落实到什么上？",
+    "options": [
+      {
+        "text": "文件传达"
+      },
+      {
+        "text": "会议部署"
+      },
+      {
+        "text": "实际行动和实际效果"
+      },
+      {
+        "text": "学习笔记"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_154",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "新修订《条例》规定，在重大原则问题上不同党中央保持一致且有实际言论、行为的，最重的处分是？",
+    "options": [
+      {
+        "text": "严重警告"
+      },
+      {
+        "text": "撤销党内职务"
+      },
+      {
+        "text": "留党察看"
+      },
+      {
+        "text": "开除党籍"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_155",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员组织、参加会道门或者邪教组织的，对策划者、组织者和骨干分子，应给予什么处分？",
+    "options": [
+      {
+        "text": "警告"
+      },
+      {
+        "text": "严重警告"
+      },
+      {
+        "text": "留党察看"
+      },
+      {
+        "text": "开除党籍"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_156",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "下列哪项行为通常属于违反组织纪律？",
+    "options": [
+      {
+        "text": "在网络上散布政治谣言"
+      },
+      {
+        "text": "不报告个人有关事项"
+      },
+      {
+        "text": "收受可能影响公正执行公务的礼品"
+      },
+      {
+        "text": "生活奢靡造成不良影响"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_157",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员领导干部在本人主政的地方或者分管的部门自行其是，搞山头主义，拒不执行党中央确定的大政方针，违反了？",
+    "options": [
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "政治纪律"
+      },
+      {
+        "text": "组织纪律"
+      },
+      {
+        "text": "群众纪律"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_158",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "新修订《条例》将“贯彻党中央决策部署只表态不落实”的行为，从违反工作纪律调整到了违反？",
+    "options": [
+      {
+        "text": "政治纪律"
+      },
+      {
+        "text": "组织纪律"
+      },
+      {
+        "text": "廉洁纪律"
+      },
+      {
+        "text": "群众纪律"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_159",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员违反国家法律法规，依法被判处刑罚，依照《条例》一般应当给予什么处分？",
+    "options": [
+      {
+        "text": "警告"
+      },
+      {
+        "text": "撤销党内职务"
+      },
+      {
+        "text": "留党察看"
+      },
+      {
+        "text": "开除党籍"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_160",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党纪学习教育强调，要把纪律学习作为什么教育的基础课？",
+    "options": [
+      {
+        "text": "业务能力"
+      },
+      {
+        "text": "必修"
+      },
+      {
+        "text": "警示教育"
+      },
+      {
+        "text": "廉政文化"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_161",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员受留党察看处分期间，没有哪些权利？",
+    "options": [
+      {
+        "text": "选举权和被选举权"
+      },
+      {
+        "text": "参加组织生活权"
+      },
+      {
+        "text": "接受教育培训权"
+      },
+      {
+        "text": "申诉权"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_162",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员受到警告处分，多长时间内不得在党内提升职务？",
+    "options": [
+      {
+        "text": "3个月"
+      },
+      {
+        "text": "6个月"
+      },
+      {
+        "text": "1年"
+      },
+      {
+        "text": "2年"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_163",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "对于违纪行为所获得的经济利益，应当如何处理？",
+    "options": [
+      {
+        "text": "收缴或者责令退赔"
+      },
+      {
+        "text": "仅作批评教育"
+      },
+      {
+        "text": "下不为例"
+      },
+      {
+        "text": "转为党费"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_164",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员有作风纪律方面的苗头性、倾向性问题，但情节轻微，可以给予什么处理？",
+    "options": [
+      {
+        "text": "开除党籍"
+      },
+      {
+        "text": "撤销党内职务"
+      },
+      {
+        "text": "谈话提醒、批评教育"
+      },
+      {
+        "text": "移送司法机关"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_165",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "新修订《条例》增写了关于哪类人员的纪律约束，弥补了监管漏洞？",
+    "options": [
+      {
+        "text": "新入职党员"
+      },
+      {
+        "text": "离职或退（离）休后党员"
+      },
+      {
+        "text": "流动党员"
+      },
+      {
+        "text": "挂职党员"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_166",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员在推进领导干部能上能下工作中，搞好人主义，以党纪处分规避组织调整，违反了？",
+    "options": [
+      {
+        "text": "政治纪律"
+      },
+      {
+        "text": "组织纪律"
+      },
+      {
+        "text": "廉洁纪律"
+      },
+      {
+        "text": "工作纪律"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_167",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员通过网络、广播等方式发表、传播有严重政治问题的言论，违反了？",
+    "options": [
+      {
+        "text": "生活纪律"
+      },
+      {
+        "text": "政治纪律"
+      },
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "群众纪律"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_168",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员在涉外活动中，其言行在政治上造成恶劣影响，损害党和国家尊严、利益，违反了？",
+    "options": [
+      {
+        "text": "外事纪律"
+      },
+      {
+        "text": "政治纪律"
+      },
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "组织纪律"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_169",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员信仰宗教或参与迷信活动，经组织帮助教育仍没有转变，应给予什么处分？",
+    "options": [
+      {
+        "text": "批评教育"
+      },
+      {
+        "text": "劝其退党"
+      },
+      {
+        "text": "开除党籍"
+      },
+      {
+        "text": "留党察看"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_170",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党纪学习教育要求，要推动广大党员把党的纪律规矩内化于心、外化于行，始终做到？",
+    "options": [
+      {
+        "text": "忠诚干净担当"
+      },
+      {
+        "text": "业务精通"
+      },
+      {
+        "text": "理论扎实"
+      },
+      {
+        "text": "勇于创新"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_171",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员违反有关规定自定薪酬或者滥发津贴、补贴、奖金，违反了？",
+    "options": [
+      {
+        "text": "廉洁纪律"
+      },
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "群众纪律"
+      },
+      {
+        "text": "组织纪律"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_172",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员利用职权或者职务上的影响操办婚丧喜庆事宜，在社会上造成不良影响，情节严重的，最高可给予？",
+    "options": [
+      {
+        "text": "警告"
+      },
+      {
+        "text": "严重警告"
+      },
+      {
+        "text": "撤销党内职务"
+      },
+      {
+        "text": "开除党籍"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_173",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员在社会保障、政策扶持、救灾救济款物分配等事项中优亲厚友、明显有失公平，违反了？",
+    "options": [
+      {
+        "text": "廉洁纪律"
+      },
+      {
+        "text": "群众纪律"
+      },
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "生活纪律"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_174",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员遇到国家财产和群众生命财产受到严重威胁时，能救而不救，情节较重的，违反了？",
+    "options": [
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "群众纪律"
+      },
+      {
+        "text": "生活纪律"
+      },
+      {
+        "text": "政治纪律"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_175",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员生活奢靡、贪图享乐、追求低级趣味，造成不良影响，违反了？",
+    "options": [
+      {
+        "text": "廉洁纪律"
+      },
+      {
+        "text": "生活纪律"
+      },
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "群众纪律"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_176",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员不履行全面从严治党主体责任、监督责任，造成严重损害或不良影响，违反了？",
+    "options": [
+      {
+        "text": "政治纪律"
+      },
+      {
+        "text": "组织纪律"
+      },
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "廉洁纪律"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_177",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党纪学习教育要求，要引导党员干部准确掌握“六项纪律”的主旨要义和规定要求，明确？",
+    "options": [
+      {
+        "text": "权力边界"
+      },
+      {
+        "text": "能干什么、不能干什么"
+      },
+      {
+        "text": "晋升路径"
+      },
+      {
+        "text": "考核指标"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_178",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "党员在考试、录取工作中，有泄露试题、考场舞弊等行为，违反了？",
+    "options": [
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "组织纪律"
+      },
+      {
+        "text": "生活纪律"
+      },
+      {
+        "text": "群众纪律"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_179",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "对于在立案审查中因涉嫌违犯党纪被免职的党员，审查后应当给予撤销党内职务处分的，应当？",
+    "options": [
+      {
+        "text": "不再处分"
+      },
+      {
+        "text": "给予严重警告"
+      },
+      {
+        "text": "按照其原任职务给予撤销党内职务处分"
+      },
+      {
+        "text": "直接开除党籍"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_180",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业党组织研究讨论是董事会、经理层决策重大问题的（ ）。",
+    "options": [
+      {
+        "text": "参考程序"
+      },
+      {
+        "text": "必经程序"
+      },
+      {
+        "text": "补充程序"
+      },
+      {
+        "text": "可选程序"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_181",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业要坚持全心全意依靠（ ）的方针，这是坚持党对国有企业领导的内在要求。",
+    "options": [
+      {
+        "text": "经营管理层"
+      },
+      {
+        "text": "技术骨干"
+      },
+      {
+        "text": "工人阶级"
+      },
+      {
+        "text": "党员队伍"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_182",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "全面从严治党要在国有企业落实落地，必须从（ ）、基本队伍、基本制度严起。",
+    "options": [
+      {
+        "text": "基本组织"
+      },
+      {
+        "text": "基本业务"
+      },
+      {
+        "text": "基本流程"
+      },
+      {
+        "text": "基本保障"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_183",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业党建工作要以（ ）为统领。",
+    "options": [
+      {
+        "text": "思想建设"
+      },
+      {
+        "text": "政治建设"
+      },
+      {
+        "text": "组织建设"
+      },
+      {
+        "text": "作风建设"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_184",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业基层党组织建设要坚持（ ），突出政治功能，提升组织力。",
+    "options": [
+      {
+        "text": "业务优先"
+      },
+      {
+        "text": "服务导向"
+      },
+      {
+        "text": "大抓基层"
+      },
+      {
+        "text": "效率优先"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_185",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业“双向进入、交叉任职”指的是（ ）。",
+    "options": [
+      {
+        "text": "党员与非党员交叉任职"
+      },
+      {
+        "text": "行政与业务交叉任职"
+      },
+      {
+        "text": "党委成员依法进入董事会、监事会、经理层，董事会、监事会、经理层成员中党员依照规定进入党委"
+      },
+      {
+        "text": "总部与基层交叉任职"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_186",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "检验国有企业党组织工作和战斗力的根本标准是（ ）。",
+    "options": [
+      {
+        "text": "党建考核结果"
+      },
+      {
+        "text": "企业改革发展成果"
+      },
+      {
+        "text": "上级评价"
+      },
+      {
+        "text": "党员满意度"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_187",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业领导人员牢记自己的第一职责是（ ）。",
+    "options": [
+      {
+        "text": "经营企业"
+      },
+      {
+        "text": "为党工作"
+      },
+      {
+        "text": "服务职工"
+      },
+      {
+        "text": "创造效益"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_188",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业要使国有企业成为党和国家最可信赖的（ ）。",
+    "options": [
+      {
+        "text": "经济实体"
+      },
+      {
+        "text": "依靠力量"
+      },
+      {
+        "text": "市场主体"
+      },
+      {
+        "text": "经营主体"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_189",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "加强国有企业党风廉政建设，要锲而不舍纠治（ ），坚决惩治腐败。",
+    "options": [
+      {
+        "text": "不良风气"
+      },
+      {
+        "text": "形式主义"
+      },
+      {
+        "text": "“四风”"
+      },
+      {
+        "text": "官僚主义"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_190",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业党建工作要坚持服务（ ）不偏离。",
+    "options": [
+      {
+        "text": "上级要求"
+      },
+      {
+        "text": "生产经营"
+      },
+      {
+        "text": "党员需求"
+      },
+      {
+        "text": "企业形象"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_191",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "习近平总书记对中央企业工作作出重要指示强调，新征程上中央企业要聚焦（ ）。",
+    "options": [
+      {
+        "text": "规模扩张"
+      },
+      {
+        "text": "主责主业"
+      },
+      {
+        "text": "利润增长"
+      },
+      {
+        "text": "市场份额"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_192",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业党组织在公司治理中的法定地位要（ ）。",
+    "options": [
+      {
+        "text": "逐步落实"
+      },
+      {
+        "text": "明确和落实"
+      },
+      {
+        "text": "灵活把握"
+      },
+      {
+        "text": "强化落实"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_193",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业领导人员要牢固树立政治意识、大局意识、核心意识、（ ）。",
+    "options": [
+      {
+        "text": "责任意识"
+      },
+      {
+        "text": "看齐意识"
+      },
+      {
+        "text": "担当意识"
+      },
+      {
+        "text": "服务意识"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_194",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "推动国有企业完善创新体系、增强创新能力、激发创新活力，是（ ）对国有企业的重要要求。",
+    "options": [
+      {
+        "text": "市场竞争"
+      },
+      {
+        "text": "习近平总书记"
+      },
+      {
+        "text": "行业监管"
+      },
+      {
+        "text": "企业发展"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_195",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业党建工作和业务工作要做到一起谋划、一起部署、一起落实、（ ）。",
+    "options": [
+      {
+        "text": "一起考核"
+      },
+      {
+        "text": "一起推进"
+      },
+      {
+        "text": "一起检查"
+      },
+      {
+        "text": "一起总结"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_196",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业要切实增强核心功能、提升（ ）。",
+    "options": [
+      {
+        "text": "经营效益"
+      },
+      {
+        "text": "核心竞争力"
+      },
+      {
+        "text": "市场规模"
+      },
+      {
+        "text": "品牌影响力"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_197",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业党组织履行党的建设（ ），书记履行第一责任人职责。",
+    "options": [
+      {
+        "text": "重要责任"
+      },
+      {
+        "text": "主体责任"
+      },
+      {
+        "text": "监督责任"
+      },
+      {
+        "text": "直接责任"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_198",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业专职副书记一般进入董事会且（ ），专责抓好党建工作。",
+    "options": [
+      {
+        "text": "不兼任经理层职务"
+      },
+      {
+        "text": "兼任经理层职务"
+      },
+      {
+        "text": "兼任监事会职务"
+      },
+      {
+        "text": "不兼任其他职务"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_199",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业党员（ ）以上的，设立党的基层委员会。",
+    "options": [
+      {
+        "text": "50人"
+      },
+      {
+        "text": "80人"
+      },
+      {
+        "text": "100人"
+      },
+      {
+        "text": "150人"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_200",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "国有企业“三重一大”决策制度不包括（ ）。",
+    "options": [
+      {
+        "text": "重大事项决策"
+      },
+      {
+        "text": "重要干部任免"
+      },
+      {
+        "text": "重大项目安排"
+      },
+      {
+        "text": "日常业务审批"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_201",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，建强能源安全保供能力要求提升\"五大能力\"，其中不包括以下哪项？",
+    "options": [
+      {
+        "text": "供给安全能力"
+      },
+      {
+        "text": "运行安全能力"
+      },
+      {
+        "text": "应急安全能力"
+      },
+      {
+        "text": "市场安全能力"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_202",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，攻坚绿色低碳转型要求锚定\"三大支撑\"，其中不包括以下哪项？",
+    "options": [
+      {
+        "text": "新能源"
+      },
+      {
+        "text": "水电"
+      },
+      {
+        "text": "火电"
+      },
+      {
+        "text": "核电"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_203",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，培育壮大战略性新兴产业要求实施什么行动？",
+    "options": [
+      {
+        "text": "焕新、启航行动"
+      },
+      {
+        "text": "创新、引领行动"
+      },
+      {
+        "text": "绿色、低碳行动"
+      },
+      {
+        "text": "数字、智能行动"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_204",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，全力打造科技创新新优势要求着力打造\"三个力量\"，其中不包括以下哪项？",
+    "options": [
+      {
+        "text": "国家战略科技力量"
+      },
+      {
+        "text": "六大关键核心技术体系"
+      },
+      {
+        "text": "科技成果转化新格局"
+      },
+      {
+        "text": "一流人才队伍"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_205",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，加快数智华能建设要求以什么为主线？",
+    "options": [
+      {
+        "text": "\"深赋能、优基础、强保障\""
+      },
+      {
+        "text": "\"数字化、智能化、网络化\""
+      },
+      {
+        "text": "\"创新、协调、绿色\""
+      },
+      {
+        "text": "\"安全、高效、智能\""
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_206",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "集团的战略任务中，构建国际化发展新格局要求实施什么区域发展战略？",
+    "options": [
+      {
+        "text": "\"深耕东南亚、拓展中西亚、突破中东欧、开辟南美洲\""
+      },
+      {
+        "text": "\"深耕亚洲、拓展欧洲、突破美洲、开辟非洲\""
+      },
+      {
+        "text": "\"深耕一带一路、拓展欧美、突破非洲、开辟南美\""
+      },
+      {
+        "text": "\"深耕周边、拓展全球、突破重点、开辟新兴\""
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_207",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，全面提升价值创造能力要求加快构建以什么为核心的世界一流财务管理体系？",
+    "options": [
+      {
+        "text": "价值创造"
+      },
+      {
+        "text": "风险控制"
+      },
+      {
+        "text": "成本管理"
+      },
+      {
+        "text": "资金管理"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_208",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，进一步全面深化改革要求推进什么向纵深发展？",
+    "options": [
+      {
+        "text": "电力市场化改革"
+      },
+      {
+        "text": "国有企业改革"
+      },
+      {
+        "text": "科技创新改革"
+      },
+      {
+        "text": "人事制度改革"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_209",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，强化党建引领保障要求落实全面实施什么行动计划？",
+    "options": [
+      {
+        "text": "高质量党建行动计划"
+      },
+      {
+        "text": "全面从严治党行动计划"
+      },
+      {
+        "text": "党建引领发展行动计划"
+      },
+      {
+        "text": "党建质量提升行动计划"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_210",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团的战略任务中，构建世界一流人力资源体系要求打造\"五好五强\"干部队伍，其中不包括以下哪项？",
+    "options": [
+      {
+        "text": "政治好、能力好、作风好、业绩好、形象好"
+      },
+      {
+        "text": "政治强、能力强、作风强、业绩强、形象强"
+      },
+      {
+        "text": "政治好、能力好、作风好、业绩好、纪律好"
+      },
+      {
+        "text": "政治强、能力强、作风强、业绩强、纪律强"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_211",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2026年计划煤炭产量为：",
+    "options": [
+      {
+        "text": "1.02亿吨"
+      },
+      {
+        "text": "1.08亿吨"
+      },
+      {
+        "text": "1.12亿吨"
+      },
+      {
+        "text": "1.22亿吨"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_212",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2026年投资预算规模为：",
+    "options": [
+      {
+        "text": "1500亿元"
+      },
+      {
+        "text": "1650亿元"
+      },
+      {
+        "text": "1750亿元"
+      },
+      {
+        "text": "1850亿元"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_213",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2026年计划核准（备案）新能源规模为：",
+    "options": [
+      {
+        "text": "3000万千瓦以上"
+      },
+      {
+        "text": "3500万千瓦以上"
+      },
+      {
+        "text": "4000万千瓦以上"
+      },
+      {
+        "text": "4500万千瓦以上"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_214",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2026年研发投入强度目标为：",
+    "options": [
+      {
+        "text": "2.8%"
+      },
+      {
+        "text": "3.0%"
+      },
+      {
+        "text": "3.3%"
+      },
+      {
+        "text": "3.5%"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_215",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2026年计划投产装机容量为：",
+    "options": [
+      {
+        "text": "2000万千瓦以上"
+      },
+      {
+        "text": "2183万千瓦以上"
+      },
+      {
+        "text": "2383万千瓦以上"
+      },
+      {
+        "text": "2583万千瓦以上"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_216",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2025年归母净利润为：",
+    "options": [
+      {
+        "text": "158亿元"
+      },
+      {
+        "text": "178亿元"
+      },
+      {
+        "text": "188亿元"
+      },
+      {
+        "text": "198亿元"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_217",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团\"十四五\"期间发电装机规模达到：",
+    "options": [
+      {
+        "text": "2.5亿千瓦"
+      },
+      {
+        "text": "2.8亿千瓦"
+      },
+      {
+        "text": "3亿千瓦"
+      },
+      {
+        "text": "3.2亿千瓦"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_218",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2025年经济增加值为：",
+    "options": [
+      {
+        "text": "219.6亿元"
+      },
+      {
+        "text": "239.6亿元"
+      },
+      {
+        "text": "259.6亿元"
+      },
+      {
+        "text": "279.6亿元"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_219",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2026年工作要重点做到\"六个强化\"，不包括：",
+    "options": [
+      {
+        "text": "强化政治引领"
+      },
+      {
+        "text": "强化理论武装"
+      },
+      {
+        "text": "强化党建基层基础"
+      },
+      {
+        "text": "强化国际化经营"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_220",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团\"十五五\"时期战略原则中的\"六个坚持\"包括：",
+    "options": [
+      {
+        "text": "坚持党的全面领导"
+      },
+      {
+        "text": "坚持服务国家战略"
+      },
+      {
+        "text": "坚持高质量发展"
+      },
+      {
+        "text": "以上都是"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_221",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能集团2025年战新产业营收占比达到：",
+    "options": [
+      {
+        "text": "22.2%"
+      },
+      {
+        "text": "24.2%"
+      },
+      {
+        "text": "26.2%"
+      },
+      {
+        "text": "28.2%"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_222",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "2026年，在深化全面从严治党上，要实施什么行动？",
+    "options": [
+      {
+        "text": "廉洁清风行动"
+      },
+      {
+        "text": "文化赋能行动"
+      },
+      {
+        "text": "产改深化行动"
+      },
+      {
+        "text": "青春闪亮行动"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_223",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "2026年，在发挥统战群团作用上，要实施哪两个行动？",
+    "options": [
+      {
+        "text": "产改深化行动和青春闪亮行动"
+      },
+      {
+        "text": "文化赋能行动和廉洁清风行动"
+      },
+      {
+        "text": "强根铸魂行动和夯基聚力行动"
+      },
+      {
+        "text": "选贤培优行动和文化赋能行动"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_single_224",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "2025年，深入贯彻中央八项规定精神学习教育中，整改完成率是多少？",
+    "options": [
+      {
+        "text": "95%"
+      },
+      {
+        "text": "97%"
+      },
+      {
+        "text": "98%"
+      },
+      {
+        "text": "98.5%"
+      }
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "id": "party_single_225",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能四川能源开发有限公司2025年完成发电量是多少？",
+    "options": [
+      {
+        "text": "128.14亿千瓦时"
+      },
+      {
+        "text": "138.14亿千瓦时"
+      },
+      {
+        "text": "148.14亿千瓦时"
+      },
+      {
+        "text": "158.14亿千瓦时"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_226",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能四川能源开发有限公司2025年公司累计实现营业收入是多少？",
+    "options": [
+      {
+        "text": "112.95亿元"
+      },
+      {
+        "text": "122.95亿元"
+      },
+      {
+        "text": "132.95亿元"
+      },
+      {
+        "text": "142.95亿元"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_227",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能四川能源开发有限公司2025年公司累计实现利润是多少？",
+    "options": [
+      {
+        "text": "33.61亿元"
+      },
+      {
+        "text": "43.61亿元"
+      },
+      {
+        "text": "53.61亿元"
+      },
+      {
+        "text": "63.61亿元"
+      }
+    ],
+    "answer": [
+      1
+    ]
+  },
+  {
+    "id": "party_single_228",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能四川能源开发有限公司2026年研发投入强度目标是多少？",
+    "options": [
+      {
+        "text": "2.5%"
+      },
+      {
+        "text": "3.0%"
+      },
+      {
+        "text": "3.5%"
+      },
+      {
+        "text": "4.0%"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_single_229",
+    "type": "single",
+    "category": "单项选择题",
+    "question": "华能四川能源开发有限公司2025年公司专利数量较\"十三五\"末增长多少倍？",
+    "options": [
+      {
+        "text": "12倍"
+      },
+      {
+        "text": "14倍"
+      },
+      {
+        "text": "16倍"
+      },
+      {
+        "text": "18倍"
+      }
+    ],
+    "answer": [
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_230",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "中国共产党百年奋斗的历史意义包括（ ）。",
+    "options": [
+      {
+        "text": "从根本上改变中国人民前途命运"
+      },
+      {
+        "text": "开辟实现中华民族伟大复兴的正确道路"
+      },
+      {
+        "text": "展示马克思主义的强大生命力"
+      },
+      {
+        "text": "深刻影响世界历史进程"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_231",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "中国共产党百年奋斗积累的宝贵历史经验有（ ）。",
+    "options": [
+      {
+        "text": "坚持党的领导"
+      },
+      {
+        "text": "坚持人民至上"
+      },
+      {
+        "text": "坚持理论创新"
+      },
+      {
+        "text": "坚持独立自主"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_232",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列属于改革开放后设立的经济特区有（ ）。",
+    "options": [
+      {
+        "text": "深圳"
+      },
+      {
+        "text": "珠海"
+      },
+      {
+        "text": "汕头"
+      },
+      {
+        "text": "厦门"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_233",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "我国根本政治制度包括（ ）。",
+    "options": [
+      {
+        "text": "人民代表大会制度"
+      },
+      {
+        "text": "中国共产党领导的多党合作和政治协商制度"
+      },
+      {
+        "text": "民族区域自治制度"
+      },
+      {
+        "text": "基层群众自治制度"
+      }
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "id": "party_multiple_234",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "我国基本政治制度包括（ ）。",
+    "options": [
+      {
+        "text": "中国共产党领导的多党合作和政治协商制度"
+      },
+      {
+        "text": "民族区域自治制度"
+      },
+      {
+        "text": "基层群众自治制度"
+      },
+      {
+        "text": "人民代表大会制度"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_235",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全面依法治国总目标是（ ）。",
+    "options": [
+      {
+        "text": "建设中国特色社会主义法治体系"
+      },
+      {
+        "text": "建设社会主义法治国家"
+      },
+      {
+        "text": "坚持党的领导"
+      },
+      {
+        "text": "坚持人民主体地位"
+      }
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "party_multiple_236",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "新时代强军目标是建设一支（ ）的人民军队。",
+    "options": [
+      {
+        "text": "听党指挥"
+      },
+      {
+        "text": "能打胜仗"
+      },
+      {
+        "text": "作风优良"
+      },
+      {
+        "text": "装备精良"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_237",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "人类命运共同体的核心内涵包括（ ）。",
+    "options": [
+      {
+        "text": "持久和平"
+      },
+      {
+        "text": "普遍安全"
+      },
+      {
+        "text": "共同繁荣"
+      },
+      {
+        "text": "开放包容、清洁美丽"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_238",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的自我革命“四个自我”能力包括（ ）。",
+    "options": [
+      {
+        "text": "自我净化"
+      },
+      {
+        "text": "自我完善"
+      },
+      {
+        "text": "自我革新"
+      },
+      {
+        "text": "自我提高"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_239",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "新时代党的建设总要求强调要把党建设成为（ ）的马克思主义执政党。",
+    "options": [
+      {
+        "text": "始终走在时代前列"
+      },
+      {
+        "text": "人民衷心拥护"
+      },
+      {
+        "text": "勇于自我革命"
+      },
+      {
+        "text": "经得起各种风浪考验、朝气蓬勃"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_240",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "实现中华民族伟大复兴的中国梦，必须（ ）。",
+    "options": [
+      {
+        "text": "走中国道路"
+      },
+      {
+        "text": "弘扬中国精神"
+      },
+      {
+        "text": "凝聚中国力量"
+      },
+      {
+        "text": "坚持和平发展"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_241",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "新中国成立初期，党和政府为巩固新生人民政权采取的重大举措有（ ）。",
+    "options": [
+      {
+        "text": "抗美援朝"
+      },
+      {
+        "text": "土地改革"
+      },
+      {
+        "text": "镇压反革命"
+      },
+      {
+        "text": "实施“一五”计划"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_242",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "20世纪50年代我国取得的外交成就包括（ ）。",
+    "options": [
+      {
+        "text": "提出和平共处五项原则"
+      },
+      {
+        "text": "参加万隆会议并发挥重要作用"
+      },
+      {
+        "text": "实现中美关系正常化"
+      },
+      {
+        "text": "恢复联合国合法席位"
+      }
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "party_multiple_243",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "社会主义建设探索时期的重大建设成就有（ ）。",
+    "options": [
+      {
+        "text": "武汉长江大桥建成"
+      },
+      {
+        "text": "大庆油田建成"
+      },
+      {
+        "text": "“两弹一星”取得突破"
+      },
+      {
+        "text": "恢复高考"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_244",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "20世纪70年代我国外交领域重大突破包括（ ）。",
+    "options": [
+      {
+        "text": "恢复联合国合法席位"
+      },
+      {
+        "text": "尼克松访华"
+      },
+      {
+        "text": "中日邦交正常化"
+      },
+      {
+        "text": "加入世界贸易组织"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_245",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的十一届三中全会的历史意义在于（ ）。",
+    "options": [
+      {
+        "text": "结束“以阶级斗争为纲”"
+      },
+      {
+        "text": "作出实行改革开放决策"
+      },
+      {
+        "text": "开启改革开放和社会主义现代化新时期"
+      },
+      {
+        "text": "实现新中国成立以来党的历史上伟大转折"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_246",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "改革开放以来，我国逐步形成的对外开放格局是（ ）。",
+    "options": [
+      {
+        "text": "经济特区"
+      },
+      {
+        "text": "沿海开放城市"
+      },
+      {
+        "text": "沿海经济开放区"
+      },
+      {
+        "text": "内地"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_247",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "中国特色社会主义理论体系包括（ ）。",
+    "options": [
+      {
+        "text": "邓小平理论"
+      },
+      {
+        "text": "“三个代表”重要思想"
+      },
+      {
+        "text": "科学发展观"
+      },
+      {
+        "text": "习近平新时代中国特色社会主义思想"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_248",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "中国共产党在中国革命中战胜敌人的三大法宝是（ ）。",
+    "options": [
+      {
+        "text": "统一战线"
+      },
+      {
+        "text": "武装斗争"
+      },
+      {
+        "text": "党的建设"
+      },
+      {
+        "text": "实事求是"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_249",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "毛泽东思想活的灵魂是（ ）。",
+    "options": [
+      {
+        "text": "实事求是"
+      },
+      {
+        "text": "群众路线"
+      },
+      {
+        "text": "独立自主"
+      },
+      {
+        "text": "武装斗争"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_250",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的群众路线的基本内容是（ ）。",
+    "options": [
+      {
+        "text": "一切为了群众"
+      },
+      {
+        "text": "一切依靠群众"
+      },
+      {
+        "text": "从群众中来"
+      },
+      {
+        "text": "到群众中去"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_251",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "新中国成立后，党和国家面临的历史任务包括（ ）。",
+    "options": [
+      {
+        "text": "巩固新生政权"
+      },
+      {
+        "text": "恢复国民经济"
+      },
+      {
+        "text": "推进社会主义改造"
+      },
+      {
+        "text": "实现国家工业化"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_252",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列属于社会主义核心价值观内容的有（ ）。",
+    "options": [
+      {
+        "text": "富强、民主"
+      },
+      {
+        "text": "文明、和谐"
+      },
+      {
+        "text": "自由、平等"
+      },
+      {
+        "text": "爱国、敬业"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_253",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的十九大指出，我国社会主要矛盾已经转化为（ ）。",
+    "options": [
+      {
+        "text": "人民日益增长的美好生活需要"
+      },
+      {
+        "text": "不平衡不充分的发展之间的矛盾"
+      },
+      {
+        "text": "人民日益增长的物质文化需要"
+      },
+      {
+        "text": "落后的社会生产之间的矛盾"
+      }
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "party_multiple_254",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "“四个全面”战略布局包括（ ）。",
+    "options": [
+      {
+        "text": "全面建设社会主义现代化国家"
+      },
+      {
+        "text": "全面深化改革"
+      },
+      {
+        "text": "全面依法治国"
+      },
+      {
+        "text": "全面从严治党"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_255",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "新发展理念包括（ ）。",
+    "options": [
+      {
+        "text": "创新"
+      },
+      {
+        "text": "协调"
+      },
+      {
+        "text": "绿色"
+      },
+      {
+        "text": "开放、共享"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_256",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "伟大建党精神包括（ ）。",
+    "options": [
+      {
+        "text": "坚持真理、坚守理想"
+      },
+      {
+        "text": "践行初心、担当使命"
+      },
+      {
+        "text": "不怕牺牲、英勇斗争"
+      },
+      {
+        "text": "对党忠诚、不负人民"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_257",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "属于20世纪六七十年代我国国防科技成就的有（ ）。",
+    "options": [
+      {
+        "text": "第一颗原子弹"
+      },
+      {
+        "text": "第一颗氢弹"
+      },
+      {
+        "text": "第一颗人造地球卫星"
+      },
+      {
+        "text": "神舟五号载人飞船"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_258",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的十一届三中全会实现的历史转折包括（ ）。",
+    "options": [
+      {
+        "text": "从“以阶级斗争为纲”转到以经济建设为中心"
+      },
+      {
+        "text": "从僵化封闭转到改革开放"
+      },
+      {
+        "text": "从固守教条转到实事求是"
+      },
+      {
+        "text": "从计划经济直接转向市场经济"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_259",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "改革开放初期，我国设立的经济特区有（ ）。",
+    "options": [
+      {
+        "text": "深圳"
+      },
+      {
+        "text": "珠海"
+      },
+      {
+        "text": "汕头"
+      },
+      {
+        "text": "厦门"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_260",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "邓小平南方谈话提出的重要论断有（ ）。",
+    "options": [
+      {
+        "text": "发展才是硬道理"
+      },
+      {
+        "text": "三个有利于标准"
+      },
+      {
+        "text": "社会主义也可以搞市场经济"
+      },
+      {
+        "text": "科学技术是第一生产力"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_261",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "我国社会主义初级阶段基本经济制度包括（ ）。",
+    "options": [
+      {
+        "text": "公有制为主体、多种所有制经济共同发展"
+      },
+      {
+        "text": "按劳分配为主体、多种分配方式并存"
+      },
+      {
+        "text": "社会主义市场经济体制"
+      },
+      {
+        "text": "计划经济为主、市场调节为辅"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_262",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列属于全面建成小康社会目标内涵的有（ ）。",
+    "options": [
+      {
+        "text": "经济持续健康发展"
+      },
+      {
+        "text": "人民民主不断扩大"
+      },
+      {
+        "text": "文化软实力显著增强"
+      },
+      {
+        "text": "人民生活水平全面提高"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_263",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "新时代“五位一体”总体布局包括（ ）。",
+    "options": [
+      {
+        "text": "经济建设"
+      },
+      {
+        "text": "政治建设"
+      },
+      {
+        "text": "文化建设"
+      },
+      {
+        "text": "社会建设、生态文明建设"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_264",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全面深化改革总目标是（ ）。",
+    "options": [
+      {
+        "text": "完善和发展中国特色社会主义制度"
+      },
+      {
+        "text": "推进国家治理体系和治理能力现代化"
+      },
+      {
+        "text": "实现共同富裕"
+      },
+      {
+        "text": "建设现代化经济体系"
+      }
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "party_multiple_265",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "属于社会主义核心价值观国家层面的有（ ）。",
+    "options": [
+      {
+        "text": "富强"
+      },
+      {
+        "text": "民主"
+      },
+      {
+        "text": "文明"
+      },
+      {
+        "text": "和谐"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_266",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "属于社会主义核心价值观社会层面的有（ ）。",
+    "options": [
+      {
+        "text": "自由"
+      },
+      {
+        "text": "平等"
+      },
+      {
+        "text": "公正"
+      },
+      {
+        "text": "法治"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_267",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "马克思主义三大组成部分是（ ）。",
+    "options": [
+      {
+        "text": "马克思主义哲学"
+      },
+      {
+        "text": "马克思主义政治经济学"
+      },
+      {
+        "text": "科学社会主义"
+      },
+      {
+        "text": "空想社会主义"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_268",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "空想社会主义的代表人物有（ ）。",
+    "options": [
+      {
+        "text": "圣西门"
+      },
+      {
+        "text": "傅立叶"
+      },
+      {
+        "text": "欧文"
+      },
+      {
+        "text": "马克思"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_269",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "十月革命的历史意义包括（ ）。",
+    "options": [
+      {
+        "text": "建立了世界上第一个社会主义国家"
+      },
+      {
+        "text": "打破了资本主义一统天下的格局"
+      },
+      {
+        "text": "推动了国际无产阶级革命运动"
+      },
+      {
+        "text": "鼓舞了殖民地半殖民地人民解放斗争"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_270",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "第二次世界大战后，社会主义由一国发展为多国，主要包括（ ）。",
+    "options": [
+      {
+        "text": "波兰、捷克斯洛伐克"
+      },
+      {
+        "text": "匈牙利、罗马尼亚"
+      },
+      {
+        "text": "保加利亚、南斯拉夫"
+      },
+      {
+        "text": "朝鲜、越南"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_271",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "社会主义发展史上两次历史性飞跃是（ ）。",
+    "options": [
+      {
+        "text": "从空想到科学"
+      },
+      {
+        "text": "从理论到实践"
+      },
+      {
+        "text": "从一国到多国"
+      },
+      {
+        "text": "从传统到现代"
+      }
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "party_multiple_272",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "中国特色社会主义制度优势体现在（ ）。",
+    "options": [
+      {
+        "text": "坚持党的集中统一领导"
+      },
+      {
+        "text": "坚持以人民为中心"
+      },
+      {
+        "text": "集中力量办大事"
+      },
+      {
+        "text": "坚持全国一盘棋"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_273",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会的重大意义在于（ ）。",
+    "options": [
+      {
+        "text": "是在我国全面建设社会主义现代化国家关键时期召开的一次十分重要的会议"
+      },
+      {
+        "text": "为进一步全面深化改革、推进中国式现代化指明了方向、提供了遵循"
+      },
+      {
+        "text": "对于凝聚全党全国各族人民意志和力量，奋力谱写中国式现代化新篇章具有重大而深远的意义"
+      },
+      {
+        "text": "标志着我国全面深化改革进入新阶段"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_274",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会提出，进一步全面深化改革，要坚持的基本原则包括（ ）。",
+    "options": [
+      {
+        "text": "坚持党的全面领导"
+      },
+      {
+        "text": "坚持以人民为中心"
+      },
+      {
+        "text": "坚持问题导向"
+      },
+      {
+        "text": "坚持系统观念"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_275",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会强调，要深化科技体制改革，加快实现高水平科技自立自强，具体举措包括（ ）。",
+    "options": [
+      {
+        "text": "强化国家战略科技力量"
+      },
+      {
+        "text": "完善科技创新体系"
+      },
+      {
+        "text": "加快科技成果转化"
+      },
+      {
+        "text": "培养高素质科技人才"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_276",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会提出，深化教育领域综合改革，要着力解决的问题包括（ ）。",
+    "options": [
+      {
+        "text": "教育公平问题"
+      },
+      {
+        "text": "教育质量问题"
+      },
+      {
+        "text": "教育评价改革问题"
+      },
+      {
+        "text": "教育资源配置问题"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_277",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会指出，完善社会保障体系，要重点做好的工作包括（ ）。",
+    "options": [
+      {
+        "text": "健全养老保险全国统筹制度"
+      },
+      {
+        "text": "完善医疗保险制度"
+      },
+      {
+        "text": "加强社会救助和社会福利"
+      },
+      {
+        "text": "健全退役军人保障制度"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_278",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会强调，发展全过程人民民主，要健全的制度体系包括（ ）。",
+    "options": [
+      {
+        "text": "人民代表大会制度"
+      },
+      {
+        "text": "中国共产党领导的多党合作和政治协商制度"
+      },
+      {
+        "text": "民族区域自治制度"
+      },
+      {
+        "text": "基层群众自治制度"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_279",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会指出，加强思想文化建设，要重点做好的工作包括（ ）。",
+    "options": [
+      {
+        "text": "牢牢掌握意识形态工作领导权"
+      },
+      {
+        "text": "培育和践行社会主义核心价值观"
+      },
+      {
+        "text": "加强中华优秀传统文化传承创新"
+      },
+      {
+        "text": "繁荣发展社会主义文艺"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_280",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会强调，完善基层治理体系，要着力构建的治理格局包括（ ）。",
+    "options": [
+      {
+        "text": "党组织领导"
+      },
+      {
+        "text": "群众自治"
+      },
+      {
+        "text": "多方参与"
+      },
+      {
+        "text": "共建共治共享"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_281",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会指出，推动构建人类命运共同体，要采取的举措包括（ ）。",
+    "options": [
+      {
+        "text": "坚持独立自主的和平外交政策"
+      },
+      {
+        "text": "推动共建“一带一路”高质量发展"
+      },
+      {
+        "text": "加强全球治理参与"
+      },
+      {
+        "text": "促进世界和平与发展"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_282",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会指出，进一步全面深化改革，要聚焦的重点领域包括（ ）。",
+    "options": [
+      {
+        "text": "经济体制改革"
+      },
+      {
+        "text": "政治体制改革"
+      },
+      {
+        "text": "文化体制改革"
+      },
+      {
+        "text": "社会体制、生态文明体制、党的建设制度改革"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_283",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会指出，深化生态文明体制改革，要着力推进的工作包括（ ）。",
+    "options": [
+      {
+        "text": "推进绿色低碳发展"
+      },
+      {
+        "text": "健全生态环境管理制度"
+      },
+      {
+        "text": "完善生态补偿机制"
+      },
+      {
+        "text": "暂停所有工业项目建设"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_284",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会强调，发展全过程人民民主，要健全的制度体系包括（ ）。",
+    "options": [
+      {
+        "text": "基层群众自治制度"
+      },
+      {
+        "text": "人民代表大会制度"
+      },
+      {
+        "text": "民族区域自治制度"
+      },
+      {
+        "text": "西方议会民主制度"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_285",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会提出，深化司法体制综合配套改革，要重点推进的内容包括（ ）。",
+    "options": [
+      {
+        "text": "司法公开"
+      },
+      {
+        "text": "司法责任制改革"
+      },
+      {
+        "text": "弱化司法监督"
+      },
+      {
+        "text": "司法为民"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_286",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会指出，加强思想文化建设，要重点做好的工作包括（ ）。",
+    "options": [
+      {
+        "text": "培育和践行社会主义核心价值观"
+      },
+      {
+        "text": "弱化意识形态工作领导权"
+      },
+      {
+        "text": "加强中华优秀传统文化传承创新"
+      },
+      {
+        "text": "繁荣发展社会主义文艺"
+      }
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_287",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会强调，完善基层治理体系，要着力构建的治理格局包括（ ）。",
+    "options": [
+      {
+        "text": "群众自治"
+      },
+      {
+        "text": "党组织领导"
+      },
+      {
+        "text": "共建共治共享"
+      },
+      {
+        "text": "政府包办一切"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_288",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会提出，深化国防和军队改革，要重点推进的内容包括（ ）。",
+    "options": [
+      {
+        "text": "推进军事科技自立自强"
+      },
+      {
+        "text": "加强军事人才培养"
+      },
+      {
+        "text": "放弃国防建设投入"
+      },
+      {
+        "text": "加强军事理论创新"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_289",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会指出，推动构建人类命运共同体，要采取的举措包括（ ）。",
+    "options": [
+      {
+        "text": "推动共建“一带一路”高质量发展"
+      },
+      {
+        "text": "坚持霸权主义"
+      },
+      {
+        "text": "坚持独立自主的和平外交政策"
+      },
+      {
+        "text": "促进世界和平与发展"
+      }
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_290",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会强调，健全全面从严治党体系，要重点推进的工作包括（ ）。",
+    "options": [
+      {
+        "text": "加强党的政治建设"
+      },
+      {
+        "text": "弱化党的组织建设"
+      },
+      {
+        "text": "加强思想建设"
+      },
+      {
+        "text": "加强作风建设和纪律建设"
+      }
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_291",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届三中全会提出，推进改革落地见效，要建立的工作机制包括（ ）。",
+    "options": [
+      {
+        "text": "改革考核机制"
+      },
+      {
+        "text": "改革问责机制"
+      },
+      {
+        "text": "改革激励机制"
+      },
+      {
+        "text": "放弃改革督查"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_292",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的二十届三中全会指出，进一步全面深化改革，要聚焦的重点领域包括（ ）。",
+    "options": [
+      {
+        "text": "经济体制改革"
+      },
+      {
+        "text": "政治体制改革"
+      },
+      {
+        "text": "放弃文化体制改革"
+      },
+      {
+        "text": "社会体制、生态文明体制、党的建设制度改革"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_293",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "二十届四中全会指出，“十五五”时期我国发展环境面临深刻复杂变化，其中国内发展的有利条件包括？（ ）",
+    "options": [
+      {
+        "text": "经济基础稳、优势多、韧性强、潜能大"
+      },
+      {
+        "text": "长期向好的支撑条件和基本趋势没有变"
+      },
+      {
+        "text": "中国特色社会主义制度优势更加彰显"
+      },
+      {
+        "text": "超大规模市场优势、完整产业体系优势更加彰显"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_294",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全会强调，“十五五”时期经济社会发展必须遵循的原则包括？（ ）",
+    "options": [
+      {
+        "text": "坚持党的全面领导"
+      },
+      {
+        "text": "坚持人民至上"
+      },
+      {
+        "text": "坚持高质量发展"
+      },
+      {
+        "text": "坚持全面深化改革"
+      },
+      {
+        "text": "坚持有效市场和有为政府相结合"
+      },
+      {
+        "text": "坚持统筹发展和安全"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "party_multiple_295",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全会提出了“十五五”时期经济社会发展的主要目标，其中包括？（ ）",
+    "options": [
+      {
+        "text": "高质量发展取得显著成效"
+      },
+      {
+        "text": "科技自立自强水平大幅提高"
+      },
+      {
+        "text": "进一步全面深化改革取得新突破"
+      },
+      {
+        "text": "社会文明程度明显提升"
+      },
+      {
+        "text": "人民生活品质不断提高"
+      },
+      {
+        "text": "美丽中国建设取得新的重大进展"
+      },
+      {
+        "text": "国家安全屏障更加巩固"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "party_multiple_296",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全会指出，建设现代化产业体系，巩固壮大实体经济根基，要坚持哪些方向？（ ）",
+    "options": [
+      {
+        "text": "智能化"
+      },
+      {
+        "text": "绿色化"
+      },
+      {
+        "text": "融合化"
+      },
+      {
+        "text": "私有化"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_297",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全会强调，加快高水平科技自立自强，要统筹建设哪些强国？（ ）",
+    "options": [
+      {
+        "text": "教育强国"
+      },
+      {
+        "text": "科技强国"
+      },
+      {
+        "text": "人才强国"
+      },
+      {
+        "text": "军事强国"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_298",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全会提出，建设强大国内市场，加快构建新发展格局，要促进哪些方面的良性互动？（ ）",
+    "options": [
+      {
+        "text": "消费和投资"
+      },
+      {
+        "text": "供给和需求"
+      },
+      {
+        "text": "国内和国际"
+      },
+      {
+        "text": "政府和市场"
+      }
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "party_multiple_299",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全会强调，加快构建高水平社会主义市场经济体制，要充分激发哪些经营主体活力？（ ）",
+    "options": [
+      {
+        "text": "国有企业"
+      },
+      {
+        "text": "民营企业"
+      },
+      {
+        "text": "外资企业"
+      },
+      {
+        "text": "个体工商户"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_300",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "全会指出，扩大高水平对外开放，要推动哪些方面的创新发展？（ ）",
+    "options": [
+      {
+        "text": "贸易创新发展"
+      },
+      {
+        "text": "双向投资合作空间拓展"
+      },
+      {
+        "text": "高质量共建“一带一路”"
+      },
+      {
+        "text": "封闭国内市场"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_301",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立和践行正确政绩观，必须深刻把握哪几个问题？（ ）",
+    "options": [
+      {
+        "text": "政绩为谁而树"
+      },
+      {
+        "text": "树什么样的政绩"
+      },
+      {
+        "text": "靠什么树政绩"
+      },
+      {
+        "text": "如何快速出政绩"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_302",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "习近平总书记强调，领导干部要处理好哪些关系？（ ）",
+    "options": [
+      {
+        "text": "稳和进、立和破"
+      },
+      {
+        "text": "虚和实、标和本"
+      },
+      {
+        "text": "近和远"
+      },
+      {
+        "text": "显绩和潜绩"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_303",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些是错误政绩观的表现？（ ）",
+    "options": [
+      {
+        "text": "搞“形象工程”“面子工程”"
+      },
+      {
+        "text": "统计造假、数据注水"
+      },
+      {
+        "text": "新官不理旧账"
+      },
+      {
+        "text": "急功近利、盲目蛮干"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_304",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，必须坚持哪些原则？（ ）",
+    "options": [
+      {
+        "text": "坚持党的全面领导"
+      },
+      {
+        "text": "坚持以人民为中心"
+      },
+      {
+        "text": "坚持高质量发展"
+      },
+      {
+        "text": "坚持实事求是"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_305",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "政绩观出现偏差的思想根源包括？（ ）",
+    "options": [
+      {
+        "text": "党性不强"
+      },
+      {
+        "text": "私心杂念"
+      },
+      {
+        "text": "宗旨意识淡薄"
+      },
+      {
+        "text": "缺乏担当"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_306",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，要求领导干部必须增强哪些能力？（ ）",
+    "options": [
+      {
+        "text": "推动高质量发展能力"
+      },
+      {
+        "text": "服务群众能力"
+      },
+      {
+        "text": "防范化解风险能力"
+      },
+      {
+        "text": "斗争本领"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_307",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些行为体现了“功成不必在我”的境界？（ ）",
+    "options": [
+      {
+        "text": "多做打基础、利长远的事"
+      },
+      {
+        "text": "甘于“栽树”“铺路”"
+      },
+      {
+        "text": "追求短期轰动效应"
+      },
+      {
+        "text": "不计较个人功名"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_308",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，必须坚决反对哪些歪风？（ ）",
+    "options": [
+      {
+        "text": "形式主义"
+      },
+      {
+        "text": "官僚主义"
+      },
+      {
+        "text": "享乐主义"
+      },
+      {
+        "text": "奢靡之风"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_309",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "政绩观教育应作为哪些活动的重要内容？（ ）",
+    "options": [
+      {
+        "text": "理论学习"
+      },
+      {
+        "text": "调查研究"
+      },
+      {
+        "text": "检视整改"
+      },
+      {
+        "text": "建章立制"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_310",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，必须坚持哪些工作方法？（ ）",
+    "options": [
+      {
+        "text": "真抓实干"
+      },
+      {
+        "text": "久久为功"
+      },
+      {
+        "text": "按规律办事"
+      },
+      {
+        "text": "科学决策"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_311",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "领导干部要力戒哪些心态？（ ）",
+    "options": [
+      {
+        "text": "浮躁心理"
+      },
+      {
+        "text": "急躁心态"
+      },
+      {
+        "text": "躺平心态"
+      },
+      {
+        "text": "投机心态"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_312",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，必须坚持什么导向？（ ）",
+    "options": [
+      {
+        "text": "目标导向"
+      },
+      {
+        "text": "问题导向"
+      },
+      {
+        "text": "结果导向"
+      },
+      {
+        "text": "形式导向"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_313",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些是正确政绩观倡导的政绩？（ ）",
+    "options": [
+      {
+        "text": "经得起实践检验"
+      },
+      {
+        "text": "经得起人民检验"
+      },
+      {
+        "text": "经得起历史检验"
+      },
+      {
+        "text": "经得起领导检验"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_314",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，必须坚持什么发展？（ ）",
+    "options": [
+      {
+        "text": "高质量发展"
+      },
+      {
+        "text": "绿色发展"
+      },
+      {
+        "text": "安全发展"
+      },
+      {
+        "text": "共享发展"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_315",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "领导干部要自觉用党的创新理论武装头脑，做到什么？（ ）",
+    "options": [
+      {
+        "text": "学思用贯通"
+      },
+      {
+        "text": "知信行统一"
+      },
+      {
+        "text": "内化于心"
+      },
+      {
+        "text": "外化于行"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_316",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，必须坚持什么立场？（ ）",
+    "options": [
+      {
+        "text": "人民立场"
+      },
+      {
+        "text": "党性立场"
+      },
+      {
+        "text": "实事求是立场"
+      },
+      {
+        "text": "个人立场"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_317",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些是树立正确政绩观的具体要求？（ ）",
+    "options": [
+      {
+        "text": "不慕虚荣"
+      },
+      {
+        "text": "不务虚功"
+      },
+      {
+        "text": "不图虚名"
+      },
+      {
+        "text": "不搞形式"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_318",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，必须坚持什么标准？（ ）",
+    "options": [
+      {
+        "text": "群众满意不满意"
+      },
+      {
+        "text": "群众答应不答应"
+      },
+      {
+        "text": "群众高兴不高兴"
+      },
+      {
+        "text": "群众拥护不拥护"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_319",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "领导干部要增强哪些意识？（ ）",
+    "options": [
+      {
+        "text": "大局意识"
+      },
+      {
+        "text": "责任意识"
+      },
+      {
+        "text": "风险意识"
+      },
+      {
+        "text": "底线意识"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_320",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "树立正确政绩观，必须坚持什么精神？（ ）",
+    "options": [
+      {
+        "text": "斗争精神"
+      },
+      {
+        "text": "担当精神"
+      },
+      {
+        "text": "实干精神"
+      },
+      {
+        "text": "奉献精神"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_321",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "改进调查研究，应当做到？（ ）",
+    "options": [
+      {
+        "text": "多同群众座谈，多解剖典型"
+      },
+      {
+        "text": "多到困难和矛盾集中、群众意见多的地方去"
+      },
+      {
+        "text": "轻车简从，减少陪同，简化接待"
+      },
+      {
+        "text": "不张贴悬挂标语横幅，不安排宴请"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_322",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些属于违反中央八项规定精神的“四风”问题？（ ）",
+    "options": [
+      {
+        "text": "贯彻党中央决策部署只表态不落实"
+      },
+      {
+        "text": "违规收送名贵特产和礼品礼金"
+      },
+      {
+        "text": "借培训考察之名公款旅游"
+      },
+      {
+        "text": "违规配备和使用公车"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_323",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "规范出访活动，具体要求包括？（ ）",
+    "options": [
+      {
+        "text": "从外交工作大局需要出发合理安排"
+      },
+      {
+        "text": "严格控制出访随行人员"
+      },
+      {
+        "text": "一般不安排中资机构、留学生到机场迎送"
+      },
+      {
+        "text": "严格按照规定乘坐交通工具"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_324",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "改进新闻报道，要求？（ ）",
+    "options": [
+      {
+        "text": "根据工作需要、新闻价值、社会效果决定是否报道"
+      },
+      {
+        "text": "压缩报道的数量、字数、时长"
+      },
+      {
+        "text": "多报道群众关心的热点问题"
+      },
+      {
+        "text": "减少对领导活动的报道"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_325",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些行为违反了厉行勤俭节约的要求？（ ）",
+    "options": [
+      {
+        "text": "超标准配备办公用房"
+      },
+      {
+        "text": "超标准配备公务用车"
+      },
+      {
+        "text": "组织或参与用公款支付的高消费娱乐健身活动"
+      },
+      {
+        "text": "借会议之名发放纪念品"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_326",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "深入贯彻中央八项规定精神，必须坚决反对哪些歪风？（ ）",
+    "options": [
+      {
+        "text": "形式主义、官僚主义"
+      },
+      {
+        "text": "享乐主义、奢靡之风"
+      },
+      {
+        "text": "特权思想、特权现象"
+      },
+      {
+        "text": "密切联系群众"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_327",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "落实中央八项规定精神，必须坚持的原则是？（ ）",
+    "options": [
+      {
+        "text": "以上率下，从中央政治局做起"
+      },
+      {
+        "text": "问题导向，聚焦“四风”顽疾"
+      },
+      {
+        "text": "抓常抓细抓长，久久为功"
+      },
+      {
+        "text": "依规依纪，严格执纪问责"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_328",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些情形属于违规配备使用公车？（ ）",
+    "options": [
+      {
+        "text": "公车私用"
+      },
+      {
+        "text": "既领补贴又坐公车"
+      },
+      {
+        "text": "“私车公养”"
+      },
+      {
+        "text": "超编制、超标准配备公车"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_329",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "关于“深入贯彻中央八项规定精神学习教育”，以下说法正确的是？（ ）",
+    "options": [
+      {
+        "text": "是巩固拓展主题教育成果的重要举措"
+      },
+      {
+        "text": "自2025年全国两会后至7月在全党开展"
+      },
+      {
+        "text": "重点是学查改一体推进"
+      },
+      {
+        "text": "旨在推动党的作风持续向好"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_330",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些行为属于形式主义，增加了基层负担？（ ）",
+    "options": [
+      {
+        "text": "文山会海，文件简报过多"
+      },
+      {
+        "text": "督查检查考核过多过频、过度留痕"
+      },
+      {
+        "text": "调查研究“走过场”"
+      },
+      {
+        "text": "执行政策“一刀切”、层层加码"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_331",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "落实中央八项规定精神，要求领导干部在哪些方面发挥“头雁效应”？（ ）",
+    "options": [
+      {
+        "text": "带头改进调查研究"
+      },
+      {
+        "text": "带头精简会议活动"
+      },
+      {
+        "text": "带头厉行勤俭节约"
+      },
+      {
+        "text": "带头严格执行待遇规定"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_332",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些选项是中央八项规定精神的具体体现？（ ）",
+    "options": [
+      {
+        "text": "密切联系群众"
+      },
+      {
+        "text": "求真务实"
+      },
+      {
+        "text": "艰苦奋斗"
+      },
+      {
+        "text": "清正廉洁"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_333",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些行为属于违规操办婚丧喜庆事宜？（ ）",
+    "options": [
+      {
+        "text": "大操大办，借机敛财"
+      },
+      {
+        "text": "收受管理服务对象礼金"
+      },
+      {
+        "text": "化整为零，分批次操办"
+      },
+      {
+        "text": "按规定报备，从简操办"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_334",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "关于改进警卫工作，以下说法正确的是？（ ）",
+    "options": [
+      {
+        "text": "坚持有利于联系群众的原则"
+      },
+      {
+        "text": "减少交通管制，一般情况下不得封路"
+      },
+      {
+        "text": "不清场闭馆"
+      },
+      {
+        "text": "尽可能缩小警戒控制范围"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_335",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些属于享乐主义、奢靡之风的隐形变异问题？（ ）",
+    "options": [
+      {
+        "text": "“不吃公款吃老板”"
+      },
+      {
+        "text": "“隔空收礼”"
+      },
+      {
+        "text": "“私车公养”"
+      },
+      {
+        "text": "违规出入私人会所"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_336",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "落实中央八项规定精神，必须处理好的关系是？（ ）",
+    "options": [
+      {
+        "text": "当前与长远"
+      },
+      {
+        "text": "治标与治本"
+      },
+      {
+        "text": "严管与厚爱"
+      },
+      {
+        "text": "纪律与法律"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_337",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些行为违反了精简文件简报的要求？（ ）",
+    "options": [
+      {
+        "text": "印发没有实质内容的文件"
+      },
+      {
+        "text": "可发可不发的简报照发不误"
+      },
+      {
+        "text": "文件空话套话连篇"
+      },
+      {
+        "text": "严格控制文件篇幅"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_338",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "深入贯彻中央八项规定精神，必须坚持的基调是？（ ）",
+    "options": [
+      {
+        "text": "严的基调"
+      },
+      {
+        "text": "全面从严"
+      },
+      {
+        "text": "一严到底"
+      },
+      {
+        "text": "适度宽松"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_339",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党的“六大纪律”除政治纪律、组织纪律外，还包括？（ ）",
+    "options": [
+      {
+        "text": "廉洁纪律"
+      },
+      {
+        "text": "群众纪律"
+      },
+      {
+        "text": "工作纪律"
+      },
+      {
+        "text": "生活纪律"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_340",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党纪学习教育的目标要求包括？（ ）",
+    "options": [
+      {
+        "text": "学纪"
+      },
+      {
+        "text": "知纪"
+      },
+      {
+        "text": "明纪"
+      },
+      {
+        "text": "守纪"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_341",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些行为属于违反政治纪律？（ ）",
+    "options": [
+      {
+        "text": "在重大原则问题上不同党中央保持一致"
+      },
+      {
+        "text": "搞团团伙伙、拉帮结派"
+      },
+      {
+        "text": "组织、参加迷信活动"
+      },
+      {
+        "text": "在涉外活动中损害党和国家尊严"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_342",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "对党员的纪律处分种类包括？（ ）",
+    "options": [
+      {
+        "text": "警告"
+      },
+      {
+        "text": "严重警告"
+      },
+      {
+        "text": "撤销党内职务"
+      },
+      {
+        "text": "留党察看、开除党籍"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_343",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "新修订《条例》的特点包括？（ ）",
+    "options": [
+      {
+        "text": "坚持严的基调"
+      },
+      {
+        "text": "加强纪法衔接"
+      },
+      {
+        "text": "将纪律建设的成果制度化"
+      },
+      {
+        "text": "聚焦“关键少数”不管普通党员"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_344",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些行为属于违反组织纪律？（ ）",
+    "options": [
+      {
+        "text": "违反民主集中制原则"
+      },
+      {
+        "text": "拒不执行党组织决定"
+      },
+      {
+        "text": "不如实报告个人有关事项"
+      },
+      {
+        "text": "违规选拔任用干部"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_345",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党员违反廉洁纪律的行为包括？（ ）",
+    "options": [
+      {
+        "text": "收受可能影响公正执行公务的礼品"
+      },
+      {
+        "text": "违规从事营利活动"
+      },
+      {
+        "text": "利用职权为亲属谋利"
+      },
+      {
+        "text": "违规占用公物"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_346",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党纪学习教育强调，要教育引导党员干部深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”，其中“两个维护”是指？（ ）",
+    "options": [
+      {
+        "text": "坚决维护习近平总书记党中央的核心、全党的核心地位"
+      },
+      {
+        "text": "坚决维护党中央权威和集中统一领导"
+      },
+      {
+        "text": "坚决维护地方利益"
+      },
+      {
+        "text": "坚决维护部门利益"
+      }
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "party_multiple_347",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些行为属于违反群众纪律？（ ）",
+    "options": [
+      {
+        "text": "在管理服务中吃拿卡要"
+      },
+      {
+        "text": "对待群众态度恶劣、简单粗暴"
+      },
+      {
+        "text": "弄虚作假、欺上瞒下，损害群众利益"
+      },
+      {
+        "text": "干涉群众生产经营自主权"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_348",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党员违反工作纪律的行为包括？（ ）",
+    "options": [
+      {
+        "text": "工作中不负责任，造成损失"
+      },
+      {
+        "text": "形式主义、官僚主义"
+      },
+      {
+        "text": "泄露、扩散党组织秘密"
+      },
+      {
+        "text": "干预和插手市场经济活动"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_349",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "新修订《条例》在生活纪律方面，重点规范了哪些行为？（ ）",
+    "options": [
+      {
+        "text": "生活奢靡、贪图享乐"
+      },
+      {
+        "text": "不重视家风建设"
+      },
+      {
+        "text": "违背社会公序良俗"
+      },
+      {
+        "text": "违背家庭美德"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_350",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党纪学习教育要求，要推动全面从严治党向纵深发展，必须坚持哪些原则？（ ）",
+    "options": [
+      {
+        "text": "党性党风党纪一起抓"
+      },
+      {
+        "text": "把纪律挺在前面"
+      },
+      {
+        "text": "纪严于法、纪在法前"
+      },
+      {
+        "text": "只抓大案要案"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_351",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "下列哪些情形可以从轻或者减轻处分？（ ）",
+    "options": [
+      {
+        "text": "主动交代本人应当受到党纪处分的问题"
+      },
+      {
+        "text": "检举同案人应当受到党纪处分的问题经查证属实"
+      },
+      {
+        "text": "主动挽回损失、消除不良影响"
+      },
+      {
+        "text": "主动上交违纪所得"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_352",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "习近平总书记指出，要通过加强和完善党对国有企业的领导、加强和改进国有企业党的建设，使国有企业成为（ ）。",
+    "options": [
+      {
+        "text": "党和国家最可信赖的依靠力量"
+      },
+      {
+        "text": "坚决贯彻执行党中央决策部署的重要力量"
+      },
+      {
+        "text": "贯彻新发展理念、全面深化改革的重要力量"
+      },
+      {
+        "text": "实施“走出去”战略、“一带一路”建设等重大战略的重要力量"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_353",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "国有企业领导人员必须做到的“20字”标准包括（ ）。",
+    "options": [
+      {
+        "text": "对党忠诚"
+      },
+      {
+        "text": "勇于创新"
+      },
+      {
+        "text": "治企有方"
+      },
+      {
+        "text": "兴企有为"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_354",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "党对国有企业的领导包括（ ）。",
+    "options": [
+      {
+        "text": "政治领导"
+      },
+      {
+        "text": "思想领导"
+      },
+      {
+        "text": "组织领导"
+      },
+      {
+        "text": "行政领导"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_355",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "国有企业党组织发挥领导核心和政治核心作用，要做到（ ）。",
+    "options": [
+      {
+        "text": "把方向"
+      },
+      {
+        "text": "管大局"
+      },
+      {
+        "text": "保落实"
+      },
+      {
+        "text": "抓经营"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_356",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "习近平总书记强调，国有企业必须一以贯之的是（ ）。",
+    "options": [
+      {
+        "text": "坚持党对国有企业的领导"
+      },
+      {
+        "text": "建立现代企业制度"
+      },
+      {
+        "text": "市场化经营机制"
+      },
+      {
+        "text": "国有独资体制"
+      }
+    ],
+    "answer": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "party_multiple_357",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团加快数智华能建设要求强化保障体系，包括（ ）",
+    "options": [
+      {
+        "text": "建立健全数智化治理体系"
+      },
+      {
+        "text": "架构管控体系"
+      },
+      {
+        "text": "数智化生态体系"
+      },
+      {
+        "text": "打造数智化人才战略支撑力量"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_358",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团构建国际化发展新格局要求坚持创新驱动，聚焦哪些方面？（ ）",
+    "options": [
+      {
+        "text": "绿色能源发展"
+      },
+      {
+        "text": "重大标志性工程建设"
+      },
+      {
+        "text": "\"小而美\"民生项目"
+      },
+      {
+        "text": "产品、技术、标准系统输出"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_359",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团全面提升价值创造能力要求全面提升客户服务和市场驾驭能力，推动市场营销工作实现哪些转变？（ ）",
+    "options": [
+      {
+        "text": "由单一电量营销模式向多元价值收益优化转变"
+      },
+      {
+        "text": "售电公司由代理售电营销模式向综合运营服务商转变"
+      },
+      {
+        "text": "电力交易从传统经验型决策模式向海量数据智能化决策转变"
+      },
+      {
+        "text": "从注重电量向注重电价转变"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": "party_multiple_360",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团进一步全面深化改革要求持续深化管理体制机制改革，包括（ ）",
+    "options": [
+      {
+        "text": "加快公司组织形态变革"
+      },
+      {
+        "text": "构建权责清晰、运转协调、精干高效、配置科学的组织体系"
+      },
+      {
+        "text": "结合实际实施扁平化改造"
+      },
+      {
+        "text": "不断压缩管理层级、缩短决策链条"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_361",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团强化党建引领保障要求全面提升党建基层基础，包括（ ）",
+    "options": [
+      {
+        "text": "落实全面实施高质量党建行动计划"
+      },
+      {
+        "text": "构建具有华能特色的\"12345\"党建工作体系"
+      },
+      {
+        "text": "持续深化党建引领"
+      },
+      {
+        "text": "充分发挥党员先锋模范作用和基层党组织战斗堡垒作用"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_362",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团\"十四五\"期间取得的历史性成绩包括：",
+    "options": [
+      {
+        "text": "国际业务规模翻番"
+      },
+      {
+        "text": "发电装机突破3亿千瓦"
+      },
+      {
+        "text": "低碳清洁能源装机占比达56.6%"
+      },
+      {
+        "text": "非化石能源装机占比历史性突破50%"
+      },
+      {
+        "text": "战新产业营收占比达26.2%"
+      },
+      {
+        "text": "2025年利润总额是2020年的2.5倍"
+      }
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "party_multiple_363",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团2025年工作亮点包括：",
+    "options": [
+      {
+        "text": "国际业务收入增长20%"
+      },
+      {
+        "text": "实现利润总额568亿元，同比增长11%"
+      },
+      {
+        "text": "新能源投产规模突破2600万千瓦"
+      },
+      {
+        "text": "标煤采购单价同比下降126.7元/吨"
+      },
+      {
+        "text": "机组非停同比减少43.9%"
+      },
+      {
+        "text": "7家单位盈利超30亿元"
+      }
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "party_multiple_364",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团2026年重点工作中的\"六个强化\"包括：",
+    "options": [
+      {
+        "text": "强化国际业务拓展"
+      },
+      {
+        "text": "强化政治引领"
+      },
+      {
+        "text": "强化理论武装"
+      },
+      {
+        "text": "强化党建基层基础"
+      },
+      {
+        "text": "强化干部人才队伍建设"
+      },
+      {
+        "text": "强化正风肃纪反腐"
+      }
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "party_multiple_365",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团\"十五五\"时期战略目标中的\"国内领先、世界一流\"具体体现在：",
+    "options": [
+      {
+        "text": "国际影响力领先"
+      },
+      {
+        "text": "效能领先"
+      },
+      {
+        "text": "资源领先"
+      },
+      {
+        "text": "技术领先"
+      },
+      {
+        "text": "成本领先"
+      },
+      {
+        "text": "市场领先和品牌领先"
+      }
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "party_multiple_366",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能集团2026年党建工作重点包括：",
+    "options": [
+      {
+        "text": "加强国际业务合作"
+      },
+      {
+        "text": "深入抓好四中全会精神学习宣传贯彻"
+      },
+      {
+        "text": "高标准抓好中央巡视\"回头看\"反馈问题整改落实"
+      },
+      {
+        "text": "认真贯彻落实二十届中央纪委五次全会精神"
+      },
+      {
+        "text": "强化干部人才保障"
+      },
+      {
+        "text": "强化品牌建设"
+      }
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "party_multiple_367",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "2025年，华能党的建设工作成效包括哪些方面？（ ）",
+    "options": [
+      {
+        "text": "思想政治建设坚定有力"
+      },
+      {
+        "text": "深入贯彻中央八项规定精神学习教育扎实开展"
+      },
+      {
+        "text": "中央巡视整改不断深化"
+      },
+      {
+        "text": "党建基层基础持续夯实"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_368",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "2026年，重点做到的“五个坚持”包括哪些？（ ）",
+    "options": [
+      {
+        "text": "坚持政治引领、思想铸魂"
+      },
+      {
+        "text": "坚持围绕中心、服务大局"
+      },
+      {
+        "text": "坚持系统思维、体系推进"
+      },
+      {
+        "text": "坚持全面从严、标本兼治"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "party_multiple_369",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能四川能源开发有限公司2026年在转型发展上取得新突破的重点工作包括哪些？（ ）",
+    "options": [
+      {
+        "text": "优化发展工作机制"
+      },
+      {
+        "text": "全力争取优质风光资源"
+      },
+      {
+        "text": "高效推进基建项目"
+      },
+      {
+        "text": "积极稳妥拓展战新产业"
+      },
+      {
+        "text": "高质量完成\"十五五\"规划编制"
+      },
+      {
+        "text": "大力发展火电项目"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": "party_multiple_370",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能四川能源开发有限公司2025年取得的主要成绩包括哪些？（ ）",
+    "options": [
+      {
+        "text": "安全生产总体平稳"
+      },
+      {
+        "text": "提质增效成效显著"
+      },
+      {
+        "text": "转型发展成果丰硕"
+      },
+      {
+        "text": "创新驱动成效凸显"
+      },
+      {
+        "text": "企业改革走深走实"
+      },
+      {
+        "text": "党的建设进一步加强"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "party_multiple_371",
+    "type": "multiple",
+    "category": "多项选择题",
+    "question": "华能四川能源开发有限公司\"十五五\"时期党建工作的总体思路包括哪些内容？（ ）",
+    "options": [
+      {
+        "text": "坚持以习近平新时代中国特色社会主义思想为指导"
+      },
+      {
+        "text": "深入贯彻落实习近平总书记关于党的建设、关于党的自我革命的重要思想"
+      },
+      {
+        "text": "大力开展\"党旗领航、三色担当\"党建品牌建设"
+      },
+      {
+        "text": "纵深推进全面从严治党"
+      },
+      {
+        "text": "加快构建同新征程新使命更相适应的党建工作新格局"
+      },
+      {
+        "text": "以经济效益为中心"
+      }
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

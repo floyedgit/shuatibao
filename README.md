@@ -1,17 +1,16 @@
-# 刷题宝 PWA 手机版
+# 党务人才技能选拔赛模拟
 
-“刷题宝”是一个面向 iOS 和安卓手机使用的本地题库刷题工具。项目基于 [QuarkPixel/quiz-app](https://github.com/QuarkPixel/quiz-app) 改造，保留原项目 MIT License 信息。
+本分支是“党务人才技能选拔赛模拟”单文件练习版，面向 iOS 和安卓手机使用。项目基于 [QuarkPixel/quiz-app](https://github.com/QuarkPixel/quiz-app) 改造，保留原项目 MIT License 信息。
 
-第一版定位：个人自用、本地题库、本地进度、手机优先。不需要服务器、账号或应用商店上架。
+定位：内置题库、本地进度、手机优先、打开即用。不需要服务器、账号或应用商店上架。
 
 ## 功能
 
-- 支持判断题、单选题、多选题，保留填空题能力。
-- 支持导入 JSON 题库。
-- 支持本地保存做题进度。
-- 支持答案预览、活动池、题型筛选和学习设置。
-- 支持 `category` 分类和 `explanation` 答案解析。
-- 支持 PWA：可在 iOS Safari 和安卓 Chrome/Edge 添加到主屏幕。
+- 首页显示题库统计、错题数量和最近一次模拟考试结果。
+- 支持顺序刷题、随机刷题、模拟考试、错题本、题库查看。
+- 模拟考试每次随机抽取 25 道题，正向计时，不限制交卷时间。
+- 答错题自动加入错题本，错题可重新练习或移出。
+- 题库和练习记录只保存在当前浏览器本地。
 
 ## 本机运行
 
@@ -27,30 +26,18 @@ npm run dev
 
 如果电脑已安装 Node.js LTS，也可以直接使用系统 `node` 和 `npm`。
 
-## 构建
+## 构建单文件 HTML
 
-Library 模式，浏览器内导入题库：
+生成可直接发送给别人使用的 HTML：
 
 ```powershell
-npm run build
+npm run build:party
 ```
 
 构建后主要产物为：
 
 ```text
 dist/shuatibao.html
-```
-
-Bundled 模式，把题库打包成单文件：
-
-```powershell
-node scripts/cli.js build --bundled assets/questions.example.json
-```
-
-构建后产物为：
-
-```text
-dist/bundled-<hash>.html
 ```
 
 ## 手机使用
@@ -68,7 +55,7 @@ iPhone：
 2. 选择“添加到主屏幕”或“安装应用”；
 3. 从桌面图标进入刷题宝。
 
-说明：第一版进度只保存在当前手机浏览器。iPhone 和安卓之间不会自动同步。
+说明：进度只保存在当前手机浏览器。iPhone 和安卓之间不会自动同步。
 
 ## 题库格式
 

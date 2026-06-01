@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "node scripts/cli.js dev",
     "build": "node scripts/cli.js build",
+    "build:party": "node scripts/cli.js build --bundled assets/party-talent-simulation.json --output shuatibao.html",
     "build:pages": "node scripts/cli.js build --output index.html",
     "preview": "node scripts/cli.js preview",
     "test": "vitest run",

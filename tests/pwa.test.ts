@@ -5,13 +5,13 @@ import { resolve } from "node:path";
 const root = resolve(__dirname, "..");
 
 describe("PWA assets", () => {
-  it("manifest 使用刷题宝应用信息和 standalone 启动方式", () => {
+  it("manifest 使用党务模拟应用信息和 standalone 启动方式", () => {
     const manifest = JSON.parse(
       readFileSync(resolve(root, "public", "manifest.webmanifest"), "utf-8"),
     );
 
-    expect(manifest.name).toBe("刷题宝");
-    expect(manifest.short_name).toBe("刷题宝");
+    expect(manifest.name).toBe("党务人才技能选拔赛模拟");
+    expect(manifest.short_name).toBe("党务模拟");
     expect(manifest.display).toBe("standalone");
     expect(manifest.start_url).toBe(".");
     expect(manifest.icons.length).toBeGreaterThanOrEqual(2);
@@ -20,7 +20,7 @@ describe("PWA assets", () => {
   it("HTML 入口声明 manifest、iOS 图标和移动端主题色", () => {
     const html = readFileSync(resolve(root, "index.html"), "utf-8");
 
-    expect(html).toContain('<title>刷题宝</title>');
+    expect(html).toContain("<title>党务人才技能选拔赛模拟</title>");
     expect(html).toContain('rel="manifest" href="manifest.webmanifest"');
     expect(html).toContain('rel="apple-touch-icon"');
     expect(html).toContain('name="theme-color"');
